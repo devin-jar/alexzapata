@@ -169,4 +169,4 @@ Nous nous réservons le droit, à notre seule discrétion, de mettre à jour, de
 
 Les questions concernant les Conditions de Service doivent nous être envoyées à :
 
-- Courriel : bioenneagramcoach@gmail.com
+- Courriel : alex@alexzapata.com

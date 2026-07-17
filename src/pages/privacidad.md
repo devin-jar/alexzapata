@@ -69,6 +69,6 @@ Cuando realiza un pedido a través del Sitio, mantendremos su Información del p
 Podemos actualizar esta política de privacidad periódicamente para reflejar, por ejemplo, cambios en nuestras prácticas o por otros motivos operativos, legales o reglamentarios.
 
 ## CONTÁCTENOS
-Para obtener más información sobre nuestras prácticas de privacidad, si tiene alguna pregunta o si desea presentar una queja, contáctenos por correo electrónico a bioenneagramcoach@gmail.com o por correo mediante el uso de la información que se proporciona a continuación:
+Para obtener más información sobre nuestras prácticas de privacidad, si tiene alguna pregunta o si desea presentar una queja, contáctenos por correo electrónico a alex@alexzapata.com o por correo mediante el uso de la información que se proporciona a continuación:
 
 - Ubicación: Cl. 10 #2-53, Jardin, ANT, 056050, Colombia

@@ -169,4 +169,4 @@ Wij behouden ons het recht voor, naar eigen goeddunken, om elk deel van deze Ser
 
 Vragen over de Servicevoorwaarden moeten naar ons worden gestuurd via:
 
-- E-mail: bioenneagramcoach@gmail.com
+- E-mail: alex@alexzapata.com

@@ -171,4 +171,4 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 Questions about the Terms of Service should be sent to us at:
 
-- Email: bioenneagramcoach@gmail.com
+- Email: alex@alexzapata.com

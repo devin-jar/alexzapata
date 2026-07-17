@@ -169,4 +169,4 @@ Wir behalten uns das Recht vor, nach eigenem Ermessen Teile dieser Nutzungsbedin
 
 Fragen zu den Nutzungsbedingungen sind an uns zu richten unter:
 
-- E-Mail: bioenneagramcoach@gmail.com
+- E-Mail: alex@alexzapata.com

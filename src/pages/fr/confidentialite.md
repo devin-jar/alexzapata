@@ -70,5 +70,5 @@ Lorsque vous passez une commande via le Site, nous conservons vos Informations d
 Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements opérationnels, juridiques ou réglementaires.
 
 ## CONTACTEZ-NOUS
-Pour toute question concernant nos pratiques de confidentialité, des plaintes ou des demandes de renseignements, écrivez-nous à bioenneagramcoach@gmail.com ou contactez-nous par courrier à l'adresse :
+Pour toute question concernant nos pratiques de confidentialité, des plaintes ou des demandes de renseignements, écrivez-nous à alex@alexzapata.com ou contactez-nous par courrier à l'adresse :
 - Adresse : Cl. 10 #2-53, Jardin, ANT, 056050, Colombie

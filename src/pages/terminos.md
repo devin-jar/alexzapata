@@ -150,4 +150,4 @@ Nos reservamos el derecho, a nuestra entera discreción, de actualizar, cambiar 
 
 Las preguntas sobre los Términos del servicio se deben enviar a:
 
-- Correo: bioenneagramcoach@gmail.com
+- Correo: alex@alexzapata.com

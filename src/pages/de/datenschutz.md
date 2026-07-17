@@ -70,5 +70,5 @@ Wenn Sie eine Bestellung über die Site aufgeben, bewahren wir Ihre Bestellinfor
 Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren, um betriebliche, rechtliche oder regulatorische Änderungen widerzuspiegeln.
 
 ## KONTAKTIEREN SIE UNS
-Bei Fragen zu unseren Datenschutzpraktiken, Beschwerden oder Anfragen kontaktieren Sie uns bitte per E-Mail unter bioenneagramcoach@gmail.com oder schreiben Sie uns an:
+Bei Fragen zu unseren Datenschutzpraktiken, Beschwerden oder Anfragen kontaktieren Sie uns bitte per E-Mail unter alex@alexzapata.com oder schreiben Sie uns an:
 - Adresse: Cl. 10 #2-53, Jardin, ANT, 056050, Kolumbien

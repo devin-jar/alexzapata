@@ -320,7 +320,7 @@
       "items": [
         {
           "title": "Escríbenos",
-          "description": "bioenneagramcoach@gmail.com",
+          "description": "alex@alexzapata.com",
           "icon": "tabler:mail"
         },
         {
@@ -559,7 +559,7 @@
           "description": "Chatea con nosotros si enfrentas problemas como la instalación de plantillas, dificultades de edición, problemas de compatibilidad con software o errores de descarga, u otros desafíos técnicos relacionados con el uso de las plantillas."
         },
         { "title": "Teléfono", "description": "+1 (234) 567-890", "icon": "tabler:headset" },
-        { "title": "Correo Electrónico", "description": "contact@support.com", "icon": "tabler:mail" },
+        { "title": "Correo Electrónico", "description": "alex@alexzapata.com", "icon": "tabler:mail" },
         { "title": "Ubicación", "description": "1234 Lorem Ipsum St, 12345, Miami, EEUU", "icon": "tabler:map-pin" }
       ]
     }

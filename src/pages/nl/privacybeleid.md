@@ -70,5 +70,5 @@ Wanneer u een bestelling via de Site plaatst, bewaren we uw Bestelinformatie voo
 We kunnen dit privacybeleid van tijd tot tijd bijwerken om operationele, wettelijke of regelgevende wijzigingen weer te geven.
 
 ## CONTACT ONS
-Voor vragen over onze privacypraktijken, klachten of vragen kunt u ons e-mailen op bioenneagramcoach@gmail.com of per post bereiken op:
+Voor vragen over onze privacypraktijken, klachten of vragen kunt u ons e-mailen op alex@alexzapata.com of per post bereiken op:
 - Adres: Cl. 10 #2-53, Jardin, ANT, 056050, Colombia
