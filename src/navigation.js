@@ -89,7 +89,7 @@ export const getFooterData = (t, lang) => {
           // { text: t('footer.support.blog'), href: getBlogPermalink(t, lang) }, // Pasando 't'
           // { text: t('footer.support.professionalServices'), href: getPermalink(t('routes.services', {}, { defaultValue: 'services' }), 'page', lang) },
           // { text: t('footer.support.socialImpact'), href: getPermalink(t('routes.socialImpact', {}, { defaultValue: 'social-impact' }), 'page', lang) },
-          // { text: t('footer.support.store'), href: 'https://shop.bioenneagram.com/', target: '_blank' },
+          // { text: t('footer.support.store'), href: 'https://shop.alexzapata.com/', target: '_blank' },
           { text: t('footer.support.location'), target: '_blank', href: 'https://maps.app.goo.gl/3gU7PHsuNg8UM3Lj6' },
         ],
       },
@@ -99,9 +99,9 @@ export const getFooterData = (t, lang) => {
       { text: t('footer.secondaryLinks.privacy'), href: getPermalink(t('routes.privacy', {}, { defaultValue: 'privacy' }), 'page', lang) },
     ],
     socialLinks: [
-      { ariaLabel: t('footer.social.ariaLabelX', {}, { defaultValue: 'X Profile' }), target: '_blank', icon: 'tabler:brand-x', href: 'https://twitter.com/bioenneagram' },
+      { ariaLabel: t('footer.social.ariaLabelX', {}, { defaultValue: 'X Profile' }), target: '_blank', icon: 'tabler:brand-x', href: 'https://twitter.com/alexzapata' },
       { ariaLabel: t('footer.social.ariaLabelInstagram', {}, { defaultValue: 'Instagram Profile' }), target: '_blank', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/bioenneagramcoach/' },
-      { ariaLabel: t('footer.social.ariaLabelFacebook', {}, { defaultValue: 'Facebook Page' }), target: '_blank', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/bioenneagram' },
+      { ariaLabel: t('footer.social.ariaLabelFacebook', {}, { defaultValue: 'Facebook Page' }), target: '_blank', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/alexzapata' },
       {
         ariaLabel: t('footer.social.ariaLabelWhatsapp', {}, { defaultValue: 'WhatsApp Contact' }),
         target: '_blank',
@@ -113,7 +113,7 @@ export const getFooterData = (t, lang) => {
     ],
     footNote: `
       <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-logo"></span>
-      ${t('footer.footNote.developedBy')} <a class="text-blue-600 hover:underline dark:text-gray-200" href="${homePermalink}"> Bioenneagram</a> · © ${new Date().getFullYear()} ${t('footer.footNote.rightsReserved')}
+      ${t('footer.footNote.developedBy')} <a class="text-blue-600 hover:underline dark:text-gray-200" href="${homePermalink}"> Alex Zapata</a> · © ${new Date().getFullYear()} ${t('footer.footNote.rightsReserved')}
     `,
   };
 };

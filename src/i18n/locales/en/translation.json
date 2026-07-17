@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bioenneagram Coach | Enneagram and Biodescoding",
-    "description": "Discover your essence and transform your life with Bioenneagram, merging Enneagram and Biodescoding for profound personal growth."
+    "title": "Alex Zapata Coach | Enneagram and Biodescoding",
+    "description": "Discover your essence and transform your life with Alex Zapata, merging Enneagram and Biodescoding for profound personal growth."
   },
   "nav": {
     "home": "Home",
@@ -15,7 +15,7 @@
     "aboutUs": "About Us",
     "contactUs": "Contact Us",
     "homes": "Demos",
-    "bioenneagramHome": "Bioenneagram",
+    "bioenneagramHome": "Alex Zapata",
     "pages": "Pages",
     "featuresAnchor": "Features (Anchor)",
     "pricing": "Pricing",
@@ -68,13 +68,13 @@
       "privacy": "Privacy Policy"
     },
     "social": {
-      "ariaLabelX": "Bioenneagram X (Twitter) Profile",
-      "ariaLabelInstagram": "Bioenneagram Instagram Profile",
-      "ariaLabelFacebook": "Bioenneagram Facebook Page",
-      "ariaLabelWhatsapp": "Contact Bioenneagram via WhatsApp",
+      "ariaLabelX": "Alex Zapata X (Twitter) Profile",
+      "ariaLabelInstagram": "Alex Zapata Instagram Profile",
+      "ariaLabelFacebook": "Alex Zapata Facebook Page",
+      "ariaLabelWhatsapp": "Contact Alex Zapata via WhatsApp",
       "whatsappMessage": "Hello, I'd like to schedule a session with you",
-      "ariaLabelSpotify": "Bioenneagram Spotify Podcast",
-      "ariaLabelRSS": "Bioenneagram RSS Feed"
+      "ariaLabelSpotify": "Alex Zapata Spotify Podcast",
+      "ariaLabelRSS": "Alex Zapata RSS Feed"
     },
     "footNote": {
       "developedBy": "Developed by",
@@ -109,24 +109,24 @@
   },
   "homepage": {
     "meta": {
-      "title": "Bioenneagram Coach | Enneagram and Biodescoding",
-      "description": "Discover your strengths and improve your relationships with Bioenneagram. Experts in Enneagram and Biodescoding for your personal growth."
+      "title": "Alex Zapata Coach | Enneagram and Biodescoding",
+      "description": "Discover your strengths and improve your relationships with Alex Zapata. Experts in Enneagram and Biodescoding for your personal growth."
     },
     "hero": {
       "tagline": "Personal Growth",
       "title": "Ready to discover the secrets of <br /> your personality : <0>ENNEAGRAM - BIODESCODING</0><br />",
       "heroHighlight": "Enneagram - BioDecoding",
-      "subtitle": "Discover your strengths, weaknesses, and how to improve personal relationships with <1>Bioenneagram</1>.",
+      "subtitle": "Discover your strengths, weaknesses, and how to improve personal relationships with <1>Alex Zapata</1>.",
       "actionText": "Schedule Now",
-      "imageAlt": "Bioenneagram Main Image"
+      "imageAlt": "Alex Zapata Main Image"
     },
     "note": {
       "philosophyTitle": "Philosophy:",
       "philosophyValues": "Joy, Tranquility, and Hope"
     },
     "features": {
-      "title": "Why Choose Bioenneagram?",
-      "subtitle": "Each of the following features represents Bioenneagram's value proposition.",
+      "title": "Why Choose Alex Zapata?",
+      "subtitle": "Each of the following features represents Alex Zapata's value proposition.",
       "items": [
         {
           "title": "Experience real and lasting change in your life with our services",
@@ -159,7 +159,7 @@
       {
         "id": "empresarial",
         "mainTitle": "Build Your Success",
-        "mainSubtitle": "Dive into a journey to your inner world and experience transformation. Explore how Bioenneagram's tailored solutions are key to driving success in diverse contexts, from boosting corporate changes to rekindling romantic sparks and empowering individual growth.",
+        "mainSubtitle": "Dive into a journey to your inner world and experience transformation. Explore how Alex Zapata's tailored solutions are key to driving success in diverse contexts, from boosting corporate changes to rekindling romantic sparks and empowering individual growth.",
         "blockTitle": "Business Success: <br /><0>Boosting Productivity and Workplace Wellbeing</0>",
         "items": [
           {
@@ -272,8 +272,8 @@
       "title": "Frequently Asked Questions",
       "items": [
         {
-          "title": "What is Bioenneagram and how does it differ from biodescoding and enneagram separately?",
-          "description": "Bioenneagram is a unique integration of biodescoding and enneagram. It combines the power of biodescoding to understand emotional connections with the enneagram to explore personality patterns. This synergy provides a more complete view of how past experiences impact our current personality and behavior.",
+          "title": "What is Alex Zapata and how does it differ from biodescoding and enneagram separately?",
+          "description": "Alex Zapata is a unique integration of biodescoding and enneagram. It combines the power of biodescoding to understand emotional connections with the enneagram to explore personality patterns. This synergy provides a more complete view of how past experiences impact our current personality and behavior.",
           "icon": "tabler:chevrons-right"
         },
         {
@@ -282,8 +282,8 @@
           "icon": "tabler:chevrons-right"
         },
         {
-          "title": "Is prior experience with biodescoding or enneagram required to participate in Bioenneagram sessions?",
-          "description": "No prior experience is needed. Bioenneagram sessions are designed for all familiarity levels with biodescoding and enneagram. Our professionals will guide you through the process, ensuring you feel comfortable and understand each stage.",
+          "title": "Is prior experience with biodescoding or enneagram required to participate in Alex Zapata sessions?",
+          "description": "No prior experience is needed. Alex Zapata sessions are designed for all familiarity levels with biodescoding and enneagram. Our professionals will guide you through the process, ensuring you feel comfortable and understand each stage.",
           "icon": "tabler:chevrons-right"
         },
         {
@@ -321,21 +321,21 @@
       ]
     },
     "blogLatestPosts": {
-      "title": "Stay Informed with Bioenneagram's Blog",
-      "information": "Explore our collection of articles, guides, and tutorials on web development, design trends, and using bioenneagram effectively for your projects."
+      "title": "Stay Informed with Alex Zapata's Blog",
+      "information": "Explore our collection of articles, guides, and tutorials on web development, design trends, and using alexzapata effectively for your projects."
     },
-    "mailtoSubject": "Alexander Zapata: Bioenneagram Coach"
+    "mailtoSubject": "Alexander Zapata: Alex Zapata Coach"
   },
   "aboutpage": {
     "meta": {
-      "title": "About Us - Bioenneagram",
-      "description": "Learn more about Bioenneagram, our approaches, values, and achievements on the path of self-discovery."
+      "title": "About Us - Alex Zapata",
+      "description": "Learn more about Alex Zapata, our approaches, values, and achievements on the path of self-discovery."
     },
     "hero": {
       "tagline": "About Us",
       "title": "Elevate your online presence with our <br /><0>Beautiful Web Templates</0>",
-      "subtitle": "Bioenneagram combines deep expertise in personality systems and emotional decoding to create transformative experiences. Our methods bridge ancient wisdom and modern science to unlock human potential.",
-      "imageAlt": "Bioenneagram Representative Image"
+      "subtitle": "Alex Zapata combines deep expertise in personality systems and emotional decoding to create transformative experiences. Our methods bridge ancient wisdom and modern science to unlock human potential.",
+      "imageAlt": "Alex Zapata Representative Image"
     },
     "stats": {
       "title": "Our Stats",
@@ -477,7 +477,7 @@
     "title": "Eneagram Game Course: A Self-Discovery Tool",
     "subtitle": "Join my LIVE course and learn about the gamification tool for discovering your personality – the same one I use with my patients during consultations.",
     "actionText": "Enroll Now",
-    "imageAlt": "Eneagram Game Course Image by Bioenneagram Coach"
+    "imageAlt": "Eneagram Game Course Image by Alex Zapata Coach"
   },
   "callToAction": {
     "title": "Information",
@@ -510,7 +510,7 @@
 
   "contactPage": {
     "meta": {
-      "title": "Contact - Bioenneagram"
+      "title": "Contact - Alex Zapata"
     },
     "heroText": {
       "tagline": "Contact",
@@ -551,7 +551,7 @@
 
   "pricingPage": {
     "meta": {
-      "title": "Pricing - Bioenneagram"
+      "title": "Pricing - Alex Zapata"
     },
     "heroText": {
       "tagline": "Pricing",
@@ -604,14 +604,14 @@
 
   "servicesPage": {
     "meta": {
-      "title": "Services - Bioenneagram"
+      "title": "Services - Alex Zapata"
     },
     "hero": {
       "tagline": "Services",
       "title": "Elevate your projects with our stunning templates",
       "subtitle": "Explore our meticulously crafted templates tailored for diverse industries and purposes. From captivating presentations to functional website designs, we provide the tools you need to succeed.",
       "actionText": "Start Exploring",
-      "imageAlt": "Bioenneagram Services Image"
+      "imageAlt": "Alex Zapata Services Image"
     },
     "featuresTemplates": {
       "title": "Explore our diverse templates",

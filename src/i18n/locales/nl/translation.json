@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bioenneagram Coach | Enneagram en Biodescodificatie",
-    "description": "Ontdek je essentie en transformeer je leven met Bioenneagram, een combinatie van Enneagram en Biodescodificatie voor diepgaande persoonlijke groei."
+    "title": "Alex Zapata Coach | Enneagram en Biodescodificatie",
+    "description": "Ontdek je essentie en transformeer je leven met Alex Zapata, een combinatie van Enneagram en Biodescodificatie voor diepgaande persoonlijke groei."
   },
   "nav": {
     "home": "Home",
@@ -15,7 +15,7 @@
     "aboutUs": "Over Ons",
     "contactUs": "Contact",
     "homes": "Demo's",
-    "bioenneagramHome": "Bioenneagram",
+    "bioenneagramHome": "Alex Zapata",
     "pages": "Pagina's",
     "featuresAnchor": "Kenmerken (Anker)",
     "pricing": "Prijzen",
@@ -68,13 +68,13 @@
       "privacy": "Privacybeleid"
     },
     "social": {
-      "ariaLabelX": "Bioenneagram X (Twitter) Profiel",
-      "ariaLabelInstagram": "Bioenneagram Instagram Profiel",
-      "ariaLabelFacebook": "Bioenneagram Facebook Pagina",
-      "ariaLabelWhatsapp": "Contacteer Bioenneagram via WhatsApp",
+      "ariaLabelX": "Alex Zapata X (Twitter) Profiel",
+      "ariaLabelInstagram": "Alex Zapata Instagram Profiel",
+      "ariaLabelFacebook": "Alex Zapata Facebook Pagina",
+      "ariaLabelWhatsapp": "Contacteer Alex Zapata via WhatsApp",
       "whatsappMessage": "Hallo, ik wil graag een sessie met je plannen",
-      "ariaLabelSpotify": "Bioenneagram Spotify Podcast",
-      "ariaLabelRSS": "Bioenneagram RSS Feed"
+      "ariaLabelSpotify": "Alex Zapata Spotify Podcast",
+      "ariaLabelRSS": "Alex Zapata RSS Feed"
     },
     "footNote": {
       "developedBy": "Ontwikkeld door",
@@ -109,24 +109,24 @@
   },
   "homepage": {
     "meta": {
-      "title": "Bioenneagram Coach | Enneagram en Biodescodificatie",
-      "description": "Ontdek je sterke punten en verbeter je relaties met Bioenneagram. Experts in Enneagram en Biodescodificatie voor persoonlijke groei."
+      "title": "Alex Zapata Coach | Enneagram en Biodescodificatie",
+      "description": "Ontdek je sterke punten en verbeter je relaties met Alex Zapata. Experts in Enneagram en Biodescodificatie voor persoonlijke groei."
     },
     "hero": {
       "tagline": "Persoonlijke Groei",
       "title": "Klaar om de geheimen van <br /> je persoonlijkheid te ontdekken: <0>ENNEAGRAM - BIODESCODIFICATIE</0><br />",
       "heroHighlight": "Enneagram - Biodecodering",
-      "subtitle": "Ontdek je sterktes, zwaktes en hoe je persoonlijke relaties kunt verbeteren met <1>Bioenneagram</1>.",
+      "subtitle": "Ontdek je sterktes, zwaktes en hoe je persoonlijke relaties kunt verbeteren met <1>Alex Zapata</1>.",
       "actionText": "Plan Nu",
-      "imageAlt": "Hoofdafbeelding Bioenneagram"
+      "imageAlt": "Hoofdafbeelding Alex Zapata"
     },
     "note": {
   "philosophyTitle": "Filosofie:",
   "philosophyValues": "Vreugde, Kalmte en Hoop"
 },
     "features": {
-      "title": "Waarom Bioenneagram kiezen?",
-      "subtitle": "Elk van de volgende kenmerken vertegenwoordigt de waarde van Bioenneagram.",
+      "title": "Waarom Alex Zapata kiezen?",
+      "subtitle": "Elk van de volgende kenmerken vertegenwoordigt de waarde van Alex Zapata.",
       "items": [
         {
           "title": "Ervaar echte en blijvende verandering met onze diensten",
@@ -159,7 +159,7 @@
       {
         "id": "empresarial",
         "mainTitle": "Bouw aan Jouw Succes",
-        "mainSubtitle": "Duik in een reis naar je innerlijke wereld en ervaar transformatie. Ontdek hoe op maat gemaakte oplossingen van Bioenneagram de sleutel zijn tot succes in diverse contexten, van bedrijfsverandering tot het hernieuwen van romantiek en persoonlijke groei.",
+        "mainSubtitle": "Duik in een reis naar je innerlijke wereld en ervaar transformatie. Ontdek hoe op maat gemaakte oplossingen van Alex Zapata de sleutel zijn tot succes in diverse contexten, van bedrijfsverandering tot het hernieuwen van romantiek en persoonlijke groei.",
         "blockTitle": "Zakelijk Succes: <br /><0>Productiviteit en Welzijn op de Werkplek</0>",
         "items": [
           {
@@ -272,8 +272,8 @@
       "title": "Veelgestelde Vragen",
       "items": [
         {
-          "title": "Wat is Bioenneagram en hoe verschilt het van biodescodificatie en enneagram apart?",
-          "description": "Bioenneagram integreert biodescodificatie en enneagram. Het combineert het begrijpen van emotionele verbindingen met het verkennen van persoonlijkheidspatronen voor een completer beeld van hoe ervaringen ons huidige gedrag beïnvloeden.",
+          "title": "Wat is Alex Zapata en hoe verschilt het van biodescodificatie en enneagram apart?",
+          "description": "Alex Zapata integreert biodescodificatie en enneagram. Het combineert het begrijpen van emotionele verbindingen met het verkennen van persoonlijkheidspatronen voor een completer beeld van hoe ervaringen ons huidige gedrag beïnvloeden.",
           "icon": "tabler:chevrons-right"
         },
         {
@@ -321,21 +321,21 @@
       ]
     },
     "blogLatestPosts": {
-      "title": "Blijf Geïnformeerd via de Bioenneagram Blog",
-      "information": "Verken onze artikelen, gidsen en tutorials over persoonlijke ontwikkeling, designtrends en effectief gebruik van bioenneagram voor jouw groei."
+      "title": "Blijf Geïnformeerd via de Alex Zapata Blog",
+      "information": "Verken onze artikelen, gidsen en tutorials over persoonlijke ontwikkeling, designtrends en effectief gebruik van alexzapata voor jouw groei."
     },
-    "mailtoSubject": "Alexander Zapata: Bioenneagram Coach"
+    "mailtoSubject": "Alexander Zapata: Alex Zapata Coach"
   },
   "aboutpage": {
     "meta": {
-      "title": "Over Ons - Bioenneagram",
-      "description": "Leer meer over Bioenneagram, onze aanpak, waarden en prestaties op het pad van zelfontdekking."
+      "title": "Over Ons - Alex Zapata",
+      "description": "Leer meer over Alex Zapata, onze aanpak, waarden en prestaties op het pad van zelfontdekking."
     },
     "hero": {
       "tagline": "Over Ons",
       "title": "Verhoog je online aanwezigheid met onze <br /><0>Prachtige Web Templates</0>",
-      "subtitle": "Bioenneagram combineert diepgaande expertise in persoonlijkheidssystemen en emotionele decodering. Onze methoden verbinden oude wijsheid met moderne wetenschap om menselijk potentieel te ontsluiten.",
-      "imageAlt": "Representatieve Afbeelding Bioenneagram"
+      "subtitle": "Alex Zapata combineert diepgaande expertise in persoonlijkheidssystemen en emotionele decodering. Onze methoden verbinden oude wijsheid met moderne wetenschap om menselijk potentieel te ontsluiten.",
+      "imageAlt": "Representatieve Afbeelding Alex Zapata"
     },
     "stats": {
       "title": "Onze Statistieken",
@@ -477,7 +477,7 @@
     "title": "Enneagram Spel Cursus: Een Zelfontdekkingsinstrument",
     "subtitle": "Doe mee aan mijn LIVE-cursus en ontdek het gamification-tool voor persoonlijkheidsontwikkeling – hetzelfde instrument dat ik gebruik tijdens consultaties met mijn patiënten.",
     "actionText": "Schrijf Nu In",
-    "imageAlt": "Enneagram Spel Cursus Afbeelding door Bioenneagram Coach"
+    "imageAlt": "Enneagram Spel Cursus Afbeelding door Alex Zapata Coach"
   },
   "callToAction": {
     "title": "Informatie",
@@ -508,7 +508,7 @@
   },
   "contactPage": {
     "meta": {
-      "title": "Contact - Bioenneagram"
+      "title": "Contact - Alex Zapata"
     },
     "heroText": {
       "tagline": "Contact",
@@ -548,7 +548,7 @@
   },
   "pricingPage": {
     "meta": {
-      "title": "Prijzen - Bioenneagram"
+      "title": "Prijzen - Alex Zapata"
     },
     "heroText": {
       "tagline": "Prijzen",
@@ -597,14 +597,14 @@
   },
   "servicesPage": {
     "meta": {
-      "title": "Diensten - Bioenneagram"
+      "title": "Diensten - Alex Zapata"
     },
     "hero": {
       "tagline": "Diensten",
       "title": "Verhoog uw projecten met onze prachtige templates",
       "subtitle": "Ontdek onze zorgvuldig ontworpen templates voor diverse branches. Van boeiende presentaties tot functionele website-ontwerpen - wij bieden de tools die u nodig heeft.",
       "actionText": "Begin met ontdekken",
-      "imageAlt": "Bioenneagram Diensten Afbeelding"
+      "imageAlt": "Alex Zapata Diensten Afbeelding"
     },
     "featuresTemplates": {
       "title": "Ontdek onze diverse templates",

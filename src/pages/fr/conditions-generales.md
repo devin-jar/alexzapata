@@ -1,18 +1,18 @@
 ---
 title: 'Termes et Conditions'
-description: 'Lisez les Termes et Conditions d''utilisation des services de Bioenneagram.'
+description: 'Lisez les Termes et Conditions d''utilisation des services de Alex Zapata.'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/terminos/'
+    href: 'https://alexzapata.com/terminos/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/terms/'
+    href: 'https://alexzapata.com/en/terms/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/voorwaarden/'
+    href: 'https://alexzapata.com/nl/voorwaarden/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/conditions-generales/'
+    href: 'https://alexzapata.com/fr/conditions-generales/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/geschaeftsbedingungen/'
+    href: 'https://alexzapata.com/de/geschaeftsbedingungen/'
 ---
 
 _Dernière mise à jour_ : 06 janvier 2023
@@ -21,7 +21,7 @@ Veuillez lire attentivement ces termes et conditions avant d'utiliser Notre Serv
 
 ## GÉNÉRALITÉS
 
-Bioenneagram exploite ce site web. Sur l'ensemble du site, les termes "nous", "notre" et "nos" se réfèrent à Bioenneagram. Bioenneagram propose ce site web, y compris toutes les informations, outils et services disponibles sur ce site à vous, l'utilisateur, sous réserve de votre acceptation de tous les termes, conditions, politiques et avis énoncés ici.
+Alex Zapata exploite ce site web. Sur l'ensemble du site, les termes "nous", "notre" et "nos" se réfèrent à Alex Zapata. Alex Zapata propose ce site web, y compris toutes les informations, outils et services disponibles sur ce site à vous, l'utilisateur, sous réserve de votre acceptation de tous les termes, conditions, politiques et avis énoncés ici.
 
 En visitant notre site et/ou en achetant quelque chose chez nous, vous vous engagez dans notre "Service" et acceptez d'être lié par les termes et conditions suivants ("Conditions de Service", "Conditions"), y compris les termes et conditions supplémentaires et les politiques référencés ici et/ou disponibles par hyperlien. Ces Conditions de Service s'appliquent à tous les utilisateurs du site, y compris, sans limitation, les utilisateurs qui sont des navigateurs, des fournisseurs, des clients, des marchands et/ou des contributeurs de contenu.
 
@@ -129,12 +129,12 @@ Nous ne garantissons pas que les résultats qui peuvent être obtenus de l'utili
 
 Vous acceptez que de temps à autre, nous puissions supprimer le service pour des périodes indéfinies ou annuler le service à tout moment, sans préavis.
 Vous acceptez expressément que votre utilisation du service, ou votre incapacité à l'utiliser, est à vos risques et périls. Le service et tous les produits et services qui vous sont livrés par le biais du service (sauf indication contraire de notre part) sont fournis "tels quels" et "selon disponibilité" pour votre usage, sans aucune représentation, garantie ou condition de quelque nature que ce soit, expresse ou implicite, y compris toutes les garanties ou conditions implicites de qualité marchande, d'adéquation à un usage particulier, de durabilité, de titre et de non-contrefaçon.
-En aucun cas Bioenneagram, nos administrateurs, dirigeants, employés, sociétés affiliées, agents, contractants, stagiaires, fournisseurs, prestataires de services ou concédants de licence ne seront responsables de toute blessure, perte, réclamation ou de tout dommage direct, indirect, accessoire, punitif, spécial ou consécutif de quelque nature que ce soit, y compris, sans limitation, la perte de profits, la perte de revenus, la perte d'économies, la perte de données, les coûts de remplacement ou tout dommage similaire, qu'il soit fondé sur un contrat, un délit (y compris la négligence), une responsabilité stricte ou autre, découlant de votre utilisation de l'un des services ou de tout produit acheté à l'aide du service, ou pour toute autre réclamation liée de quelque manière que ce soit à votre utilisation du service ou de tout produit, y compris, mais sans s'y limiter, toute erreur ou omission dans tout contenu, ou toute perte ou tout dommage de quelque nature que ce soit encouru à la suite de l'utilisation du service ou de tout contenu (ou produit) publié, transmis ou autrement mis à disposition via le service, même si avisé de leur possibilité.
+En aucun cas Alex Zapata, nos administrateurs, dirigeants, employés, sociétés affiliées, agents, contractants, stagiaires, fournisseurs, prestataires de services ou concédants de licence ne seront responsables de toute blessure, perte, réclamation ou de tout dommage direct, indirect, accessoire, punitif, spécial ou consécutif de quelque nature que ce soit, y compris, sans limitation, la perte de profits, la perte de revenus, la perte d'économies, la perte de données, les coûts de remplacement ou tout dommage similaire, qu'il soit fondé sur un contrat, un délit (y compris la négligence), une responsabilité stricte ou autre, découlant de votre utilisation de l'un des services ou de tout produit acheté à l'aide du service, ou pour toute autre réclamation liée de quelque manière que ce soit à votre utilisation du service ou de tout produit, y compris, mais sans s'y limiter, toute erreur ou omission dans tout contenu, ou toute perte ou tout dommage de quelque nature que ce soit encouru à la suite de l'utilisation du service ou de tout contenu (ou produit) publié, transmis ou autrement mis à disposition via le service, même si avisé de leur possibilité.
 Étant donné que certains États ou juridictions n'autorisent pas l'exclusion ou la limitation de responsabilité pour les dommages consécutifs ou accessoires, dans ces États ou juridictions, notre responsabilité sera limitée dans la mesure maximale permise par la loi.
 
 ### SECTION 14 : INDEMNISATION
 
-Vous acceptez d'indemniser, de défendre et de dégager de toute responsabilité Bioenneagram et notre société mère, nos filiales, sociétés affiliées, partenaires, dirigeants, administrateurs, agents, contractants, concédants de licence, prestataires de services, sous-traitants, fournisseurs, stagiaires et employés, contre toute réclamation ou demande, y compris les honoraires d'avocat raisonnables, encourus par un tiers en raison de ou découlant de votre violation de ces Conditions de Service ou des documents qu'ils incorporent par référence, ou de votre violation de toute loi ou des droits d'un tiers.
+Vous acceptez d'indemniser, de défendre et de dégager de toute responsabilité Alex Zapata et notre société mère, nos filiales, sociétés affiliées, partenaires, dirigeants, administrateurs, agents, contractants, concédants de licence, prestataires de services, sous-traitants, fournisseurs, stagiaires et employés, contre toute réclamation ou demande, y compris les honoraires d'avocat raisonnables, encourus par un tiers en raison de ou découlant de votre violation de ces Conditions de Service ou des documents qu'ils incorporent par référence, ou de votre violation de toute loi ou des droits d'un tiers.
 
 ### SECTION 15 : DIVISIBILITÉ
 

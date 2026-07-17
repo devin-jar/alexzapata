@@ -3,20 +3,20 @@ title: 'Privacybeleid'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/privacidad/'
+    href: 'https://alexzapata.com/privacidad/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/privacy/'
+    href: 'https://alexzapata.com/en/privacy/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/privacybeleid/'
+    href: 'https://alexzapata.com/nl/privacybeleid/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/confidentialite/'
+    href: 'https://alexzapata.com/fr/confidentialite/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/datenschutz/'
+    href: 'https://alexzapata.com/de/datenschutz/'
 ---
 
 _Laatst bijgewerkt_: 6 januari 2023
 
-Dit Privacybeleid beschrijft hoe uw persoonlijke informatie wordt verzameld, gebruikt en gedeeld wanneer u https://bioenneagram.com/ bezoekt of een aankoop doet (hierna aangeduid als de "Site").
+Dit Privacybeleid beschrijft hoe uw persoonlijke informatie wordt verzameld, gebruikt en gedeeld wanneer u https://alexzapata.com/ bezoekt of een aankoop doet (hierna aangeduid als de "Site").
 
 ## PERSOONLIJKE INFORMATIE DIE WE VERZAMELEN
 

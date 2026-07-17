@@ -3,20 +3,20 @@ title: 'Datenschutzrichtlinie'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/privacidad/'
+    href: 'https://alexzapata.com/privacidad/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/privacy/'
+    href: 'https://alexzapata.com/en/privacy/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/privacybeleid/'
+    href: 'https://alexzapata.com/nl/privacybeleid/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/confidentialite/'
+    href: 'https://alexzapata.com/fr/confidentialite/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/datenschutz/'
+    href: 'https://alexzapata.com/de/datenschutz/'
 ---
 
 _Letzte Aktualisierung_: 6. Januar 2023
 
-Diese Datenschutzrichtlinie beschreibt, wie Ihre persönlichen Informationen gesammelt, verwendet und geteilt werden, wenn Sie https://bioenneagram.com/ besuchen oder dort einen Kauf tätigen (im Folgenden als "Site" bezeichnet).
+Diese Datenschutzrichtlinie beschreibt, wie Ihre persönlichen Informationen gesammelt, verwendet und geteilt werden, wenn Sie https://alexzapata.com/ besuchen oder dort einen Kauf tätigen (im Folgenden als "Site" bezeichnet).
 
 ## PERSÖNLICHE INFORMATIONEN, DIE WIR SAMMELN
 

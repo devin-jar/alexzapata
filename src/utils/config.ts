@@ -84,12 +84,12 @@ const config = yaml.load(rawYamlConfig) as {
   analytics?: unknown;
 };
 
-const DEFAULT_SITE_NAME = 'Bioenneagram';
+const DEFAULT_SITE_NAME = 'Alex Zapata';
 
 const getSite = () => {
   const _default = {
     name: DEFAULT_SITE_NAME,
-    site: 'https://bioenneagram.com',
+    site: 'https://alexzapata.com',
     base: '/',
     trailingSlash: true,
     googleSiteVerificationId: '',
@@ -113,7 +113,7 @@ const getMetadata = () => {
     title: {
       // Esta función buscará la traducción 'site.title'
       default: (t) => t('site.title'),
-      template: '%s — Bioenneagram', // Mantener el template es opcional
+      template: '%s — Alex Zapata', // Mantener el template es opcional
     },
     // Esta función buscará la traducción 'site.description'
     description: (t) => t('site.description'),

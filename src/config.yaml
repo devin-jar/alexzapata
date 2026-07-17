@@ -1,28 +1,28 @@
 site:
-  name: Bioenneagram
-  site: 'https://bioenneagram.com'
+  name: Alex Zapata
+  site: 'https://alexzapata.com'
   base: '/'
   trailingSlash: true
 
 # Default SEO metadata
 metadata:
   title:
-    # default: Bioenneagram
-    template: '%s - Bioenneagram'
+    # default: Alex Zapata
+    template: '%s - Alex Zapata'
   # description: "🧘‍♂️  Descubre cómo el poder del eneagrama y la biodescodificación pueden ayudar en el desarrollo del ser."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Bioenneagram
+    site_name: Alex Zapata
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@bioenneagram'
-    site: '@bioenneagram'
+    handle: '@alexzapata'
+    site: '@alexzapata'
     cardType: summary_large_image
 
 

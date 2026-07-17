@@ -92,8 +92,8 @@ const testimonialImagesSrcs = [
 ];
 
 // HREFs (se mantienen, o se pueden mover al JSON si son muy específicos del idioma)
-const bookingLink = 'https://booking.bioenneagram.com/book';
-const youtubeLink = 'https://www.youtube.com/@bioenneagram';
+const bookingLink = 'https://booking.alexzapata.com/book';
+const youtubeLink = 'https://www.youtube.com/@alexzapata';
 const whatsappBaseLink = 'https://api.whatsapp.com/send/?phone=573004481819&type=phone_number&app_absent=0';
 const whatsappLink = `${whatsappBaseLink}&text=${encodeURIComponent(t('footer.social.whatsappMessage'))}`; // Mensaje traducido
 const formsLink = 'https://forms.gle/H1dRuGBHvAGP9hy3A';
@@ -106,7 +106,7 @@ const instagramLink = 'https://www.instagram.com/bioenneagramcoach/';
 const heroData: HeroProps = {
   tagline: t('homepage.hero.tagline'),
   title: t('homepage.hero.title', {'0': `<span class="text-accent dark:text-white highlight">${t('homepage.hero.heroHighlight')}</span>`}),
-  subtitle: t('homepage.hero.subtitle', {'1': `<span class="font-semibold">Bioenneagram</span>`}),
+  subtitle: t('homepage.hero.subtitle', {'1': `<span class="font-semibold">Alex Zapata</span>`}),
   actions: [{ variant: 'primary', target: '_blank', text: t('homepage.hero.actionText'), href: bookingLink }],
   image: { src: heroImageSrc, alt: t('homepage.hero.imageAlt') },
 };

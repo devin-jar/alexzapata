@@ -1,18 +1,18 @@
 ---
 title: 'Allgemeine Geschäftsbedingungen'
-description: 'Lesen Sie die Allgemeinen Geschäftsbedingungen für die Nutzung der Bioenneagram-Dienste.'
+description: 'Lesen Sie die Allgemeinen Geschäftsbedingungen für die Nutzung der Alex Zapata-Dienste.'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/terminos/'
+    href: 'https://alexzapata.com/terminos/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/terms/'
+    href: 'https://alexzapata.com/en/terms/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/voorwaarden/'
+    href: 'https://alexzapata.com/nl/voorwaarden/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/conditions-generales/'
+    href: 'https://alexzapata.com/fr/conditions-generales/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/geschaeftsbedingungen/'
+    href: 'https://alexzapata.com/de/geschaeftsbedingungen/'
 ---
 
 _Letzte Aktualisierung_: 06. Januar 2023
@@ -21,7 +21,7 @@ Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor
 
 ## ALLGEMEINES
 
-Bioenneagram betreibt diese Website. Auf der gesamten Website beziehen sich die Begriffe "wir", "uns" und "unser" auf Bioenneagram. Bioenneagram bietet Ihnen, dem Benutzer, diese Website, einschließlich aller Informationen, Tools und Dienste, die von dieser Website verfügbar sind, unter der Bedingung an, dass Sie alle hier angegebenen Bedingungen, Richtlinien und Hinweise akzeptieren.
+Alex Zapata betreibt diese Website. Auf der gesamten Website beziehen sich die Begriffe "wir", "uns" und "unser" auf Alex Zapata. Alex Zapata bietet Ihnen, dem Benutzer, diese Website, einschließlich aller Informationen, Tools und Dienste, die von dieser Website verfügbar sind, unter der Bedingung an, dass Sie alle hier angegebenen Bedingungen, Richtlinien und Hinweise akzeptieren.
 
 Indem Sie unsere Website besuchen und/oder etwas von uns kaufen, nehmen Sie an unserem "Dienst" teil und erklären sich damit einverstanden, an die folgenden Allgemeinen Geschäftsbedingungen ("Nutzungsbedingungen", "Bedingungen") gebunden zu sein, einschließlich der zusätzlichen Bedingungen und Richtlinien, auf die hierin verwiesen wird und/oder die per Hyperlink verfügbar sind. Diese Nutzungsbedingungen gelten für alle Benutzer der Website, einschließlich, aber nicht beschränkt auf Benutzer, die Browser, Anbieter, Kunden, Händler und/oder Mitwirkende von Inhalten sind.
 
@@ -129,12 +129,12 @@ Wir garantieren nicht, dass die Ergebnisse, die durch die Nutzung des Dienstes e
 
 Sie erklären sich damit einverstanden, dass wir den Dienst von Zeit zu Zeit für unbestimmte Zeiträume entfernen oder den Dienst jederzeit ohne Benachrichtigung an Sie kündigen können.
 Sie erklären sich ausdrücklich damit einverstanden, dass Ihre Nutzung des Dienstes oder Ihre Unfähigkeit, den Dienst zu nutzen, auf Ihr alleiniges Risiko erfolgt. Der Dienst und alle Produkte und Dienstleistungen, die Ihnen über den Dienst geliefert werden (sofern nicht ausdrücklich von uns angegeben), werden "wie besehen" und "wie verfügbar" für Ihre Nutzung bereitgestellt, ohne jegliche Zusicherung, Gewährleistung oder Bedingung jeglicher Art, weder ausdrücklich noch stillschweigend, einschließlich aller stillschweigenden Gewährleistungen oder Bedingungen der Marktgängigkeit, handelsüblichen Qualität, Eignung für einen bestimmten Zweck, Haltbarkeit, Rechtsanspruch und Nichtverletzung.
-In keinem Fall haften Bioenneagram, unsere Direktoren, leitenden Angestellten, Mitarbeiter, verbundenen Unternehmen, Vertreter, Auftragnehmer, Praktikanten, Lieferanten, Dienstleister oder Lizenzgeber für Verletzungen, Verluste, Ansprüche oder direkte, indirekte, zufällige, strafende, spezielle oder Folgeschäden jeglicher Art, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, entgangene Einnahmen, entgangene Ersparnisse, Datenverlust, Ersatzkosten oder ähnliche Schäden, unabhängig davon, ob sie auf Vertrag, unerlaubter Handlung (einschließlich Fahrlässigkeit), verschuldensunabhängiger Haftung oder anderweitig beruhen, die sich aus Ihrer Nutzung eines der Dienste oder eines der über den Dienst erworbenen Produkte ergeben, oder für andere Ansprüche, die in irgendeiner Weise mit Ihrer Nutzung des Dienstes oder eines Produkts zusammenhängen, einschließlich, aber nicht beschränkt auf Fehler oder Auslassungen in Inhalten oder Verluste oder Schäden jeglicher Art, die durch die Nutzung des Dienstes oder von Inhalten (oder Produkten), die über den Dienst veröffentlicht, übertragen oder anderweitig verfügbar gemacht werden, entstehen, selbst wenn auf deren Möglichkeit hingewiesen wurde.
+In keinem Fall haften Alex Zapata, unsere Direktoren, leitenden Angestellten, Mitarbeiter, verbundenen Unternehmen, Vertreter, Auftragnehmer, Praktikanten, Lieferanten, Dienstleister oder Lizenzgeber für Verletzungen, Verluste, Ansprüche oder direkte, indirekte, zufällige, strafende, spezielle oder Folgeschäden jeglicher Art, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, entgangene Einnahmen, entgangene Ersparnisse, Datenverlust, Ersatzkosten oder ähnliche Schäden, unabhängig davon, ob sie auf Vertrag, unerlaubter Handlung (einschließlich Fahrlässigkeit), verschuldensunabhängiger Haftung oder anderweitig beruhen, die sich aus Ihrer Nutzung eines der Dienste oder eines der über den Dienst erworbenen Produkte ergeben, oder für andere Ansprüche, die in irgendeiner Weise mit Ihrer Nutzung des Dienstes oder eines Produkts zusammenhängen, einschließlich, aber nicht beschränkt auf Fehler oder Auslassungen in Inhalten oder Verluste oder Schäden jeglicher Art, die durch die Nutzung des Dienstes oder von Inhalten (oder Produkten), die über den Dienst veröffentlicht, übertragen oder anderweitig verfügbar gemacht werden, entstehen, selbst wenn auf deren Möglichkeit hingewiesen wurde.
 Da einige Staaten oder Gerichtsbarkeiten den Ausschluss oder die Beschränkung der Haftung für Folge- oder Nebenschäden nicht zulassen, ist unsere Haftung in solchen Staaten oder Gerichtsbarkeiten auf den gesetzlich maximal zulässigen Umfang beschränkt.
 
 ### ABSCHNITT 14: SCHADLOSHALTUNG
 
-Sie erklären sich damit einverstanden, Bioenneagram und unsere Muttergesellschaft, Tochtergesellschaften, verbundenen Unternehmen, Partner, leitenden Angestellten, Direktoren, Vertreter, Auftragnehmer, Lizenzgeber, Dienstleister, Subunternehmer, Lieferanten, Praktikanten und Mitarbeiter von jeglichen Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten, freizustellen, zu verteidigen und schadlos zu halten, die von Dritten aufgrund oder infolge Ihrer Verletzung dieser Nutzungsbedingungen oder der darin durch Verweis aufgenommenen Dokumente oder Ihrer Verletzung von Gesetzen oder Rechten Dritter erhoben werden.
+Sie erklären sich damit einverstanden, Alex Zapata und unsere Muttergesellschaft, Tochtergesellschaften, verbundenen Unternehmen, Partner, leitenden Angestellten, Direktoren, Vertreter, Auftragnehmer, Lizenzgeber, Dienstleister, Subunternehmer, Lieferanten, Praktikanten und Mitarbeiter von jeglichen Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten, freizustellen, zu verteidigen und schadlos zu halten, die von Dritten aufgrund oder infolge Ihrer Verletzung dieser Nutzungsbedingungen oder der darin durch Verweis aufgenommenen Dokumente oder Ihrer Verletzung von Gesetzen oder Rechten Dritter erhoben werden.
 
 ### ABSCHNITT 15: SALVATORISCHE KLAUSEL
 

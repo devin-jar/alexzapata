@@ -3,20 +3,20 @@ title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/privacidad/'
+    href: 'https://alexzapata.com/privacidad/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/privacy/'
+    href: 'https://alexzapata.com/en/privacy/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/privacybeleid/'
+    href: 'https://alexzapata.com/nl/privacybeleid/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/confidentialite/'
+    href: 'https://alexzapata.com/fr/confidentialite/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/datenschutz/'
+    href: 'https://alexzapata.com/de/datenschutz/'
 ---
 
 _Last Updated_: January 6, 2023
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://bioenneagram.com/ (referred to as the "Site").
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://alexzapata.com/ (referred to as the "Site").
 
 ## PERSONAL INFORMATION WE COLLECT
 

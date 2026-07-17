@@ -1,18 +1,18 @@
 ---
 title: 'Algemene Voorwaarden'
-description: 'Lees de Algemene Voorwaarden voor het gebruik van de diensten van Bioenneagram.'
+description: 'Lees de Algemene Voorwaarden voor het gebruik van de diensten van Alex Zapata.'
 layout: '~/layouts/MarkdownLayout.astro'
 alternateLinks:
   - lang: 'es'
-    href: 'https://bioenneagram.com/terminos/'
+    href: 'https://alexzapata.com/terminos/'
   - lang: 'en'
-    href: 'https://bioenneagram.com/en/terms/'
+    href: 'https://alexzapata.com/en/terms/'
   - lang: 'nl'
-    href: 'https://bioenneagram.com/nl/voorwaarden/'
+    href: 'https://alexzapata.com/nl/voorwaarden/'
   - lang: 'fr'
-    href: 'https://bioenneagram.com/fr/conditions-generales/'
+    href: 'https://alexzapata.com/fr/conditions-generales/'
   - lang: 'de'
-    href: 'https://bioenneagram.com/de/geschaeftsbedingungen/'
+    href: 'https://alexzapata.com/de/geschaeftsbedingungen/'
 ---
 
 _Laatst bijgewerkt_: 06 januari 2023
@@ -21,7 +21,7 @@ Lees deze algemene voorwaarden zorgvuldig door voordat u onze Service gebruikt.
 
 ## ALGEMEEN
 
-Bioenneagram exploiteert deze website. Op de hele site verwijzen de termen "wij", "ons" en "onze" naar Bioenneagram. Bioenneagram biedt deze website, inclusief alle informatie, tools en diensten die vanaf deze site beschikbaar zijn voor u, de gebruiker, op voorwaarde van uw acceptatie van alle hier vermelde voorwaarden, beleidsregels en kennisgevingen.
+Alex Zapata exploiteert deze website. Op de hele site verwijzen de termen "wij", "ons" en "onze" naar Alex Zapata. Alex Zapata biedt deze website, inclusief alle informatie, tools en diensten die vanaf deze site beschikbaar zijn voor u, de gebruiker, op voorwaarde van uw acceptatie van alle hier vermelde voorwaarden, beleidsregels en kennisgevingen.
 
 Door onze site te bezoeken en/of iets van ons te kopen, gaat u onze "Service" aan en stemt u ermee in gebonden te zijn aan de volgende algemene voorwaarden ("Servicevoorwaarden", "Voorwaarden"), inclusief die aanvullende algemene voorwaarden en beleidsregels waarnaar hierin wordt verwezen en/of die beschikbaar zijn via een hyperlink. Deze Servicevoorwaarden zijn van toepassing op alle gebruikers van de site, inclusief maar niet beperkt tot gebruikers die browsers, leveranciers, klanten, handelaren en/of bijdragers van inhoud zijn.
 
@@ -129,12 +129,12 @@ Wij garanderen niet dat de resultaten die kunnen worden verkregen uit het gebrui
 
 U stemt ermee in dat wij van tijd tot tijd de service voor onbepaalde tijd kunnen verwijderen of de service op elk moment kunnen annuleren, zonder u hiervan op de hoogte te stellen.
 U stemt er uitdrukkelijk mee in dat uw gebruik van, of onvermogen tot gebruik van, de service geheel op eigen risico is. De service en alle producten en diensten die via de service aan u worden geleverd, worden (behalve zoals uitdrukkelijk door ons vermeld) "zoals ze zijn" en "zoals beschikbaar" voor uw gebruik aangeboden, zonder enige verklaring, garanties of voorwaarden van welke aard dan ook, hetzij expliciet of impliciet, inclusief alle impliciete garanties of voorwaarden van verkoopbaarheid, verhandelbare kwaliteit, geschiktheid voor een bepaald doel, duurzaamheid, titel en niet-inbreuk.
-In geen geval zullen Bioenneagram, onze directeuren, functionarissen, werknemers, gelieerde ondernemingen, agenten, contractanten, stagiaires, leveranciers, dienstverleners of licentiegevers aansprakelijk zijn voor enig letsel, verlies, claim of enige directe, indirecte, incidentele, punitieve, speciale of gevolgschade van welke aard dan ook, inclusief, maar niet beperkt tot gederfde winst, gederfde inkomsten, verloren besparingen, verlies van gegevens, vervangingskosten of soortgelijke schade, hetzij gebaseerd op contract, onrechtmatige daad (inclusief nalatigheid), strikte aansprakelijkheid of anderszins, voortvloeiend uit uw gebruik van een van de diensten of producten die via de service zijn verkregen, of voor enige andere claim die op enigerlei wijze verband houdt met uw gebruik van de service of een product, inclusief, maar niet beperkt tot, eventuele fouten of weglatingen in enige inhoud, of enig verlies of schade van welke aard dan ook opgelopen als gevolg van het gebruik van de service of enige inhoud (of product) die via de service is geplaatst, verzonden of anderszins beschikbaar is gesteld, zelfs indien geadviseerd over de mogelijkheid daarvan.
+In geen geval zullen Alex Zapata, onze directeuren, functionarissen, werknemers, gelieerde ondernemingen, agenten, contractanten, stagiaires, leveranciers, dienstverleners of licentiegevers aansprakelijk zijn voor enig letsel, verlies, claim of enige directe, indirecte, incidentele, punitieve, speciale of gevolgschade van welke aard dan ook, inclusief, maar niet beperkt tot gederfde winst, gederfde inkomsten, verloren besparingen, verlies van gegevens, vervangingskosten of soortgelijke schade, hetzij gebaseerd op contract, onrechtmatige daad (inclusief nalatigheid), strikte aansprakelijkheid of anderszins, voortvloeiend uit uw gebruik van een van de diensten of producten die via de service zijn verkregen, of voor enige andere claim die op enigerlei wijze verband houdt met uw gebruik van de service of een product, inclusief, maar niet beperkt tot, eventuele fouten of weglatingen in enige inhoud, of enig verlies of schade van welke aard dan ook opgelopen als gevolg van het gebruik van de service of enige inhoud (of product) die via de service is geplaatst, verzonden of anderszins beschikbaar is gesteld, zelfs indien geadviseerd over de mogelijkheid daarvan.
 Omdat sommige staten of rechtsgebieden de uitsluiting of beperking van aansprakelijkheid voor gevolgschade of incidentele schade niet toestaan, zal onze aansprakelijkheid in dergelijke staten of rechtsgebieden beperkt zijn tot de maximale mate die wettelijk is toegestaan.
 
 ### SECTIE 14: VRIJWARING
 
-U stemt ermee in Bioenneagram en onze moedermaatschappij, dochterondernemingen, gelieerde ondernemingen, partners, functionarissen, directeuren, agenten, contractanten, licentiegevers, dienstverleners, onderaannemers, leveranciers, stagiaires en werknemers te vrijwaren, te verdedigen en schadeloos te stellen tegen elke claim of eis, inclusief redelijke advocaatkosten, gemaakt door een derde partij als gevolg van of voortvloeiend uit uw schending van deze Servicevoorwaarden of de documenten die zij door verwijzing opnemen, of uw schending van enige wet of de rechten van een derde partij.
+U stemt ermee in Alex Zapata en onze moedermaatschappij, dochterondernemingen, gelieerde ondernemingen, partners, functionarissen, directeuren, agenten, contractanten, licentiegevers, dienstverleners, onderaannemers, leveranciers, stagiaires en werknemers te vrijwaren, te verdedigen en schadeloos te stellen tegen elke claim of eis, inclusief redelijke advocaatkosten, gemaakt door een derde partij als gevolg van of voortvloeiend uit uw schending van deze Servicevoorwaarden of de documenten die zij door verwijzing opnemen, of uw schending van enige wet of de rechten van een derde partij.
 
 ### SECTIE 15: SCHEIDBAARHEID
 

@@ -4,7 +4,7 @@ import os from 'node:os';
 const tasksIntegration = () => {
   let config;
   return {
-    name: 'Bioenneagram:tasks',
+    name: 'Alex Zapata:tasks',
 
     hooks: {
       'astro:config:done': async ({ config: cfg }) => {
