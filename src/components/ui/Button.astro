@@ -1,0 +1,48 @@
+---
+import { Icon } from 'astro-icon/components';
+import { twMerge } from 'tailwind-merge';
+import type { ActionLink } from '~/types'; // Usaremos ActionLink que es más específico
+import { clsx } from 'clsx'; // Importamos clsx
+
+const {
+  variant = 'secondary',
+  target,
+  text = await Astro.slots.render('default'),
+  icon = '',
+  class: className, // Obtenemos la prop 'class'
+  type = 'button', // Damos un valor por defecto
+  ...rest
+} = Astro.props as ActionLink;
+
+// Convertimos la prop 'className' (que puede ser un objeto) a una cadena de texto
+// usando 'clsx'. 'clsx' está diseñado para esto y es usado internamente por twMerge.
+const resolvedClassName = clsx(className);
+
+const variants = {
+  primary: 'btn-primary',
+  secondary: 'btn-secondary',
+  tertiary: 'btn btn-tertiary',
+  link: 'text-secondary dark:text-slate-400 hover:text-primary dark:hover:text-white-200 underline underline-offset-4 cursor-pointer',
+};
+
+// Combinamos las clases de la variante con las clases resueltas
+const finalClass = twMerge(variants[variant] || '', resolvedClassName);
+---
+
+{
+  rest.href ? (
+    <a
+      class={finalClass}
+      {...(target === '_blank' ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
+      {...rest}
+    >
+      <Fragment set:html={text} />
+      {icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+    </a>
+  ) : (
+    <button type={type as 'button' | 'submit' | 'reset'} class={finalClass} {...rest}>
+      <Fragment set:html={text} />
+      {icon && <Icon name={icon} class="w-5 h-5 ml-1 -mr-1.5 rtl:mr-1 rtl:-ml-1.5 inline-block" />}
+    </button>
+  )
+}

@@ -1,0 +1,48 @@
+---
+// src/layouts/PageLayout.astro
+import BaseLayout from '~/layouts/Layout.astro'; // Renombrado a BaseLayout para evitar confusión
+import Header from '~/components/widgets/Header.astro';
+import Footer from '~/components/widgets/Footer.astro';
+
+import { getHeaderData, getFooterData } from '~/navigation';
+import { getTranslator, defaultLang, supportedLangs, getTranslationsForLocale } from '~/i18n'; // Asumiendo getTranslationsForLocale
+
+import type { MetaData as PageSpecificMetaDataType } from '~/types';
+
+export interface Props {
+  metadata?: PageSpecificMetaDataType;
+  frontmatter?: Record<string, any>; // Prop para pasar el frontmatter
+}
+
+const { metadata: pageSpecificMetadata, frontmatter } = Astro.props;
+
+const currentLocale = Astro.currentLocale && supportedLangs.includes(Astro.currentLocale) 
+  ? Astro.currentLocale 
+  : defaultLang;
+
+const translationsForCurrentPage = getTranslationsForLocale(currentLocale);
+const t = getTranslator(translationsForCurrentPage || {}, currentLocale);
+
+const headerData = getHeaderData(t, currentLocale);
+const footerData = getFooterData(t, currentLocale);
+
+console.log(`[PageLayout.astro] 🍔 Pasando metadata al BaseLayout.`);
+
+---
+
+<BaseLayout metadata={pageSpecificMetadata} frontmatter={frontmatter}>
+  <slot name="header">
+    <Header {...headerData} isSticky showRssFeed showToggleTheme currentLocale={currentLocale} />
+  </slot>
+  <main>
+    <slot />
+  </main>
+  <slot name="footer">
+    <script is:inline define:vars={{ videoAskText: t('videoask.triggerText') }}>
+      {/* ... tu script de videoask ... */}
+    </script>
+    <script is:inline src="https://www.videoask.com/embed/embed.js" async></script>
+    
+    <Footer {...footerData} currentLocale={currentLocale} />
+  </slot>
+</BaseLayout>

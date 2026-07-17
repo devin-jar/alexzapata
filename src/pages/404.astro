@@ -1,0 +1,51 @@
+---
+// src/pages/404.astro
+import Layout from '~/layouts/Layout.astro'; // Usamos el Layout principal
+
+import { getHomePermalink } from '~/utils/permalinks';
+import { getTranslator, defaultLang, supportedLangs, getTranslationsForLocale } from '~/i18n';
+import type { MetaData } from '~/types';
+
+// --- LÓGICA DE DETECCIÓN DE IDIOMA Y TRADUCCIÓN ---
+let currentLocale = defaultLang;
+const pathSegments = Astro.url.pathname.split('/').filter(Boolean);
+
+if (pathSegments.length > 0 && supportedLangs.includes(pathSegments[0])) {
+    currentLocale = pathSegments[0];
+}
+
+console.log(`[404.astro] 🚀 Path: ${Astro.url.pathname}, Detected Locale: ${currentLocale}`);
+
+const translations = getTranslationsForLocale(currentLocale);
+const t = getTranslator(translations || {}, currentLocale);
+
+// --- GENERACIÓN DE METADATOS PARA EL LAYOUT ---
+const metadata: MetaData = {
+  // Pasamos el idioma detectado al Layout para que todo sea consistente
+  lang: currentLocale,
+  title: t('error404Page.meta.title'),
+  description: t('site.description'), // Usamos la descripción del sitio en el idioma correcto
+  robots: { noindex: true, follow: false },
+};
+
+// Obtenemos el enlace al home en el idioma correcto
+const homeLink = getHomePermalink(currentLocale);
+---
+
+<Layout metadata={metadata}>
+  <section class="flex items-center h-full p-16">
+    <div class="container flex flex-col items-center justify-center px-5 mx-auto my-8">
+      <div class="max-w-md text-center">
+        <h2 class="mb-8 font-bold text-9xl">
+          <span class="sr-only">{t('error404Page.title')}</span>
+          <span class="text-primary">{t('error404Page.mainText')}</span>
+        </h2>
+        <p class="text-3xl font-semibold md:text-3xl">{t('error404Page.sorryText')}</p>
+        <p class="mt-4 mb-8 text-lg text-muted dark:text-slate-400">
+          {t('error404Page.infoText')}
+        </p>
+        <a rel="noopener noreferrer" href={homeLink} class="btn ml-4">{t('error404Page.buttonText')}</a>
+      </div>
+    </div>
+  </section>
+</Layout>
