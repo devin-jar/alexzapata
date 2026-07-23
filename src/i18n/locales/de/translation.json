@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Alex Zapata Coach | Enneagramm und Biodescodierung",
+    "title": "Alex Zapata | Enneagramm und Biodescodierung",
     "description": "Entdecken Sie Ihr Wesen und transformieren Sie Ihr Leben mit Bioenneagramm – der Verbindung von Enneagramm und Biodescodierung für tiefgreifendes persönliches Wachstum."
   },
   "nav": {
@@ -109,7 +109,7 @@
   },
   "homepage": {
     "meta": {
-      "title": "Alex Zapata Coach | Enneagramm und Biodescodierung",
+      "title": "Alex Zapata | Enneagramm und Biodescodierung",
       "description": "Entdecken Sie Ihre Stärken und verbessern Sie Beziehungen mit Bioenneagramm. Experten für Enneagramm und Biodescodierung für Ihr persönliches Wachstum."
     },
     "hero": {
@@ -244,7 +244,7 @@
       "subtitle": "Erfahren Sie, was unsere Kunden über ihre Erfahrungen berichten.",
       "items": [
         {
-          "testimonial": "Meine Erfahrung mit Bioenneagramm war zutiefst transformativ. Der Coach verbindet Enneagramm und Biodescodierung einzigartig. Innerhalb weniger Sitzungen erlebte ich bedeutende Veränderungen in meiner Lebensperspektive.",
+          "testimonial": "Meine Erfahrung mit Bioenneagramm war zutiefst transformativ. Der verbindet Enneagramm und Biodescodierung einzigartig. Innerhalb weniger Sitzungen erlebte ich bedeutende Veränderungen in meiner Lebensperspektive.",
           "name": "Alejandra",
           "job": "Mitarbeiterin bei Huspost",
           "imageAlt": "Alejandras Testimonial"
@@ -324,7 +324,7 @@
       "title": "Bleiben Sie informiert mit unserem Blog",
       "information": "Entdecken Sie Artikel, Anleitungen und Tutorials zu persönlicher Entwicklung, Enneagramm-Trends und effektiver Nutzung von Bioenneagramm."
     },
-    "mailtoSubject": "Alexander Zapata: Bioenneagramm Coach"
+    "mailtoSubject": "Alexander Zapata: Bioenneagramm"
   },
   "aboutpage": {
     "meta": {
@@ -476,7 +476,7 @@
     "title": "Enneagramm-Spiel-Kurs: Ein Selbsterkundungs-Werkzeug",
     "subtitle": "Nehmen Sie an meinem LIVE-Kurs teil und lernen Sie das Gamification-Tool zur Persönlichkeitsentdeckung kennen – dasselbe, das ich in Beratungen mit meinen Patienten einsetze.",
     "actionText": "Jetzt Anmelden",
-    "imageAlt": "Enneagramm-Spiel-Kurs Bild von Alex Zapata Coach"
+    "imageAlt": "Enneagramm-Spiel-Kurs Bild von Alex Zapata"
   },
   "callToAction": {
     "title": "Information",

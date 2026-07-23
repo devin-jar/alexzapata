@@ -13,36 +13,27 @@ export const getHeaderData = (t, lang) => {
         text: t('nav.home'),
         href: getPermalink(t('routes.home', {}, { defaultValue: '/' }), 'page', lang),
       },
-      // {
-      //   text: t('nav.services'),
-      //   href: getPermalink(t('routes.services', {}, { defaultValue: 'services' }), 'page', lang),
-      // },
-      // {
-      //   text: t('nav.blog'),
-      //   // Si el enlace principal "Blog" lleva al listado del blog:
-      //   href: getBlogPermalink(t, lang), // Pasamos 't' a getBlogPermalink
-      //   // Si "Blog" es un desplegable, entonces href podría ser '#' o getBlogPermalink,
-      //   // y los links internos usarían t() para sus slugs de post/categoría si es necesario.
-      //   // links: [
-      //   //   {
-      //   //     text: t('nav.blogList'),
-      //   //     href: getBlogPermalink(t, lang),
-      //   //   },
-      //   //   {
-      //   //     text: t('nav.article'), // Texto del enlace
-      //   //     // Suponiendo que 'postViajeInterior' es la clave para este post específico en routes.json
-      //   //     href: getPermalink(t('routes.postViajeInterior', {}, {defaultValue: 'blog/eneagrama-un-viaje-a-tu-mundo-interior'}), 'post', lang),
-      //   //   },
-      //   // ],
-      // },
-      // {
-      //   text: t('nav.aboutUs'),
-      //   href: getPermalink(t('routes.about', {}, { defaultValue: 'about' }), 'page', lang),
-      // },
-      // {
-      //   text: t('nav.contactUs'),
-      //   href: getPermalink(t('routes.contact', {}, { defaultValue: 'contact' }), 'page', lang),
-      // },
+      {
+        text: t('nav.blog'),
+        href: getBlogPermalink(t, lang),
+      },
+      {
+        text: t('nav.otherServices'),
+        links: [
+          {
+            text: t('nav.servicesRetreat'),
+            href: `${getPermalink(t('routes.services', {}, { defaultValue: 'servicios' }), 'page', lang)}#retiros`,
+          },
+          {
+            text: t('nav.servicesWorkshops'),
+            href: `${getPermalink(t('routes.services', {}, { defaultValue: 'servicios' }), 'page', lang)}#talleres`,
+          },
+          {
+            text: t('nav.servicesCourses'),
+            href: `${getPermalink(t('routes.services', {}, { defaultValue: 'servicios' }), 'page', lang)}#cursos`,
+          },
+        ],
+      },
     ],
     actions: [
       {

@@ -3,6 +3,7 @@
 import BaseLayout from '~/layouts/Layout.astro'; // Renombrado a BaseLayout para evitar confusión
 import Header from '~/components/widgets/Header.astro';
 import Footer from '~/components/widgets/Footer.astro';
+import Button from '~/components/ui/Button.astro';
 
 import { getHeaderData, getFooterData } from '~/navigation';
 import { getTranslator, defaultLang, supportedLangs, getTranslationsForLocale } from '~/i18n'; // Asumiendo getTranslationsForLocale
@@ -23,6 +24,9 @@ const currentLocale = Astro.currentLocale && supportedLangs.includes(Astro.curre
 const translationsForCurrentPage = getTranslationsForLocale(currentLocale);
 const t = getTranslator(translationsForCurrentPage || {}, currentLocale);
 
+const whatsappBaseLink = 'https://api.whatsapp.com/send/?phone=573004481819&type=phone_number&app_absent=0';
+const whatsappLink = `${whatsappBaseLink}&text=${encodeURIComponent(t('footer.social.whatsappMessage'))}`;
+
 const headerData = getHeaderData(t, currentLocale);
 const footerData = getFooterData(t, currentLocale);
 
@@ -37,6 +41,17 @@ console.log(`[PageLayout.astro] 🍔 Pasando metadata al BaseLayout.`);
   <main>
     <slot />
   </main>
+  <div class="fixed bottom-4 right-4 z-50 block sm:hidden">
+    <Button
+      variant="primary"
+      href={whatsappLink}
+      target="_blank"
+      aria-label={t('nav.actions.book')}
+      text=""
+      icon="tabler:brand-whatsapp"
+      class="rounded-full p-4 shadow-2xl"
+    />
+  </div>
   <slot name="footer">
     <script is:inline define:vars={{ videoAskText: t('videoask.triggerText') }}>
       {/* ... tu script de videoask ... */}

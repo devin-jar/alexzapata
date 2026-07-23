@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Alex Zapata Coach | Enneagram en Biodescodificatie",
+    "title": "Alex Zapata | Enneagram en Biodescodificatie",
     "description": "Ontdek je essentie en transformeer je leven met Alex Zapata, een combinatie van Enneagram en Biodescodificatie voor diepgaande persoonlijke groei."
   },
   "nav": {
@@ -109,7 +109,7 @@
   },
   "homepage": {
     "meta": {
-      "title": "Alex Zapata Coach | Enneagram en Biodescodificatie",
+      "title": "Alex Zapata | Enneagram en Biodescodificatie",
       "description": "Ontdek je sterke punten en verbeter je relaties met Alex Zapata. Experts in Enneagram en Biodescodificatie voor persoonlijke groei."
     },
     "hero": {
@@ -244,7 +244,7 @@
       "subtitle": "Ontdek wat onze cliënten zeggen over hun ervaringen.",
       "items": [
         {
-          "testimonial": "Mijn ervaring met BioEnneagram was transformatief. De coach combineert enneagram en biodescodificatie op unieke wijze. In slechts enkele sessies ervaarde ik significante veranderingen in mijn levensaanpak. Een absolute aanrader!",
+          "testimonial": "Mijn ervaring met BioEnneagram was transformatief. De combineert enneagram en biodescodificatie op unieke wijze. In slechts enkele sessies ervaarde ik significante veranderingen in mijn levensaanpak. Een absolute aanrader!",
           "name": "Alejandra",
           "job": "Medewerker bij Huspost",
           "imageAlt": "Getuigenis van Alejandra"
@@ -324,7 +324,7 @@
       "title": "Blijf Geïnformeerd via de Alex Zapata Blog",
       "information": "Verken onze artikelen, gidsen en tutorials over persoonlijke ontwikkeling, designtrends en effectief gebruik van alexzapata voor jouw groei."
     },
-    "mailtoSubject": "Alexander Zapata: Alex Zapata Coach"
+    "mailtoSubject": "Alexander Zapata: Alex Zapata"
   },
   "aboutpage": {
     "meta": {
@@ -477,7 +477,7 @@
     "title": "Enneagram Spel Cursus: Een Zelfontdekkingsinstrument",
     "subtitle": "Doe mee aan mijn LIVE-cursus en ontdek het gamification-tool voor persoonlijkheidsontwikkeling – hetzelfde instrument dat ik gebruik tijdens consultaties met mijn patiënten.",
     "actionText": "Schrijf Nu In",
-    "imageAlt": "Enneagram Spel Cursus Afbeelding door Alex Zapata Coach"
+    "imageAlt": "Enneagram Spel Cursus Afbeelding door Alex Zapata"
   },
   "callToAction": {
     "title": "Informatie",

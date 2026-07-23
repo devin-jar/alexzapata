@@ -1,15 +1,14 @@
-
 {
   "site": {
-    "title": "Alex Zapata Coach | Eneagrama y Biodescodificación",
+    "title": "Alex Zapata | Eneagrama y Biodescodificación",
     "description": "Descubre tu esencia y transforma tu vida con Alex Zapata, fusionando Eneagrama y Biodescodificación para un crecimiento personal profundo."
   },
   "jsonld": {
     "organization": {
-      "name": "Alex Zapata Coach" 
+      "name": "Alex Zapata"
     },
     "website": {
-      "name": "Sitio Web de Alex Zapata Coach"
+      "name": "Sitio Web de Alex Zapata"
     },
     "article": {
       "defaultAuthor": "Alexander Zapata Rendon"
@@ -43,8 +42,12 @@
     "subscription": "Suscripción",
     "widgets": "Widgets",
     "actions": {
-      "book": "Reserva"
-    }
+      "book": "Agendar Ahora"
+    },
+    "otherServices": "Otros Servicios",
+    "servicesRetreat": "Retiros",
+    "servicesWorkshops": "Talleres",
+    "servicesCourses": "Cursos"
   },
   "footer": {
     "products": {
@@ -93,14 +96,14 @@
       "rightsReserved": "Todos los derechos reservados."
     }
   },
-  "routes": { 
-    "home": "/", 
+  "routes": {
+    "home": "/",
     "about": "nosotros",
     "contact": "contacto",
     "terms": "terminos",
     "privacy": "privacidad",
     "services": "servicios",
-    "blog": "blog", 
+    "blog": "blog",
     "pricing": "precios",
     "productRetreat": "productos/retiro",
     "productIndividualTherapy": "productos/terapia-individual",
@@ -109,7 +112,7 @@
     "workshopEmotions": "talleres/emociones",
     "courseIntroBrain": "cursos/introduccion-cerebro",
     "courseIntroEnneagram": "cursos/introduccion-eneagrama",
-    "courseEnneagramGame": "landing/curso-eneagrama-game", 
+    "courseEnneagramGame": "landing/curso-eneagrama-game",
     "courseIntroBiodecoding": "cursos/introduccion-biodescodificacion",
     "servicesTeamWorkshop": "servicios/taller-equipos",
     "servicesConferences": "servicios/conferencias",
@@ -124,20 +127,20 @@
   },
   "homepage": {
     "meta": {
-      "title": "Alex Zapata Coach | Eneagrama y Biodescodificación",
-      "description": "Descubre tus fortalezas y mejora tus relaciones con Alex Zapata. Expertos en Eneagrama y Biodescodificación para tu crecimiento personal."
+      "title": "Alex Zapata | Terapia de Pareja y Bloqueos de Dinero Online",
+      "description": "¿Crisis de pareja o bloqueos con el dinero? Terapia estratégica online. Hablemos ahora mismo por WhatsApp y resolvamos esto."
     },
     "hero": {
-      "tagline": "Crecimiento Personal",
-      "title": "Listo para descubrir los secretos de <br /> tu personalidad : <0>ENEAGRAMA - BIODESCODIFICACIÓN</0><br />",
+      "tagline": "Terapia de Pareja y Dinero",
+      "title": "Recupera la paz en tu relación y libera tus bloqueos con el dinero.",
       "heroHighlight": "ENEAGRAMA - BIODESCODIFICACIÓN",
-      "subtitle": "Descubre tus fortalezas, debilidades y cómo mejorar tus relaciones personales con <1>Alex Zapata</1>.",
-      "actionText": "Agendar Ahora", 
-      "imageAlt": "Imagen principal de Alex Zapata" 
+      "subtitle": "Terapia estratégica online. Resultados rápidos, sin jerga complicada. Hablemos hoy sobre lo que estás viviendo.",
+      "actionText": "💬 Chatea conmigo por WhatsApp",
+      "imageAlt": "Terapia estratégica online - Alex Zapata"
     },
     "note": {
-      "philosophyTitle": "Filosofía:", 
-      "philosophyValues": "Alegría, Tranquilidad y Esperanza" 
+      "philosophyTitle": "Filosofía:",
+      "philosophyValues": "Alegría, Tranquilidad y Esperanza"
     },
     "features": {
       "title": "¿Por qué escoger Alex Zapata?",
@@ -170,9 +173,9 @@
         }
       ]
     },
-    "contentSections": [ 
+    "contentSections": [
       {
-        "id": "empresarial", 
+        "id": "empresarial",
         "mainTitle": "Construye tu Éxito",
         "mainSubtitle": "Sumérgete en un viaje a tu mundo interior y experimenta un cambio. Explora cómo las soluciones a medida de Alex Zapata son fundamentales para impulsar el éxito en diversos contextos, desde impulsar cambios corporativos hasta reavivar chispas románticas e impulsar el crecimiento individual.",
         "blockTitle": "Éxito Empresarial: <br /><0>Impulsando la Productividad y el Bienestar Laboral</0>",
@@ -259,26 +262,26 @@
       "subtitle": "Descubre lo que nuestros clientes tienen para decir sobre sus experiencias trabajando con nosotros.",
       "items": [
         {
-          "testimonial": "Mi experiencia con BioEnneagram ha sido realmente transformadora. El coach tiene una habilidad única para combinar el eneagrama y la biodescodificación de una manera que te guía hacia una profunda comprensión de ti mismo. En solo unas sesiones, he experimentado un cambio significativo en mi perspectiva y en la forma en que manejo los desafíos de la vida. Recomiendo encarecidamente esta terapia a cualquiera que busque un cambio positivo y duradero.",
+          "testimonial": "Mi experiencia con BioEnneagram ha sido realmente transformadora. El tiene una habilidad única para combinar el eneagrama y la biodescodificación de una manera que te guía hacia una profunda comprensión de ti mismo. En solo unas sesiones, he experimentado un cambio significativo en mi perspectiva y en la forma en que manejo los desafíos de la vida. Recomiendo encarecidamente esta terapia a cualquiera que busque un cambio positivo y duradero.",
           "name": "Alejandra",
           "job": "Empleada en Huspost",
           "imageAlt": "Testimonio de Alejandra"
         },
         {
-          "testimonial": "No tengo palabras para expresar lo agradecido que estoy por haber descubierto BioEnneagram. El eneagrama y la biodescodificación han sido herramientas clave para comprender mis patrones de comportamiento y superar obstáculos emocionales. El coach tiene una manera de abordar los problemas con empatía y sabiduría. Mi vida ha dado un giro positivo, y no puedo agradecer lo suficiente por esta experiencia transformadora.",
+          "testimonial": "No tengo palabras para expresar lo agradecido que estoy por haber descubierto BioEnneagram. El eneagrama y la biodescodificación han sido herramientas clave para comprender mis patrones de comportamiento y superar obstáculos emocionales. El tiene una manera de abordar los problemas con empatía y sabiduría. Mi vida ha dado un giro positivo, y no puedo agradecer lo suficiente por esta experiencia transformadora.",
           "name": "Juan David Cardona",
           "job": "Fundador de Raices",
           "imageAlt": "Testimonio de Juan David Cardona"
         },
         {
-          "testimonial": "Después de participar en las sesiones de BioEnneagram, siento que finalmente estoy conectando con mi verdadero yo. El eneagrama y la biodescodificación me han brindado una visión profunda de mis bloqueos emocionales y cómo superarlos. El coach ha sido un guía excepcional en este viaje de autodescubrimiento. Mi perspectiva de la vida ha cambiado, y estoy experimentando una paz interior que nunca pensé posible.",
+          "testimonial": "Después de participar en las sesiones de BioEnneagram, siento que finalmente estoy conectando con mi verdadero yo. El eneagrama y la biodescodificación me han brindado una visión profunda de mis bloqueos emocionales y cómo superarlos. El ha sido un guía excepcional en este viaje de autodescubrimiento. Mi perspectiva de la vida ha cambiado, y estoy experimentando una paz interior que nunca pensé posible.",
           "name": "Sara",
           "job": "Violinista Profesional",
           "imageAlt": "Testimonio de Sara"
         }
       ]
     },
-    "callToActionWidget": { 
+    "callToActionWidget": {
       "title": "Vamos a crear juntos",
       "subtitle": "¿Listo para lograr un cambio significativo en tu vida?",
       "actionText": "Conversemos"
@@ -339,24 +342,55 @@
       "title": "Manténgase informado con el blog de Alex Zapata",
       "information": "Explore our collection of articles, guides, and tutorials on web development, design trends, and using alexzapata effectively for your projects."
     },
-    "mailtoSubject": "Alexander Zapata: Alex Zapata Coach"
+    "mailtoSubject": "Alexander Zapata: Alex Zapata",
+    "heroNote": "Atención inmediata | Sesiones desde $60 USD",
+    "pain": {
+      "title": "¿Te sientes identificado con esto?",
+      "couples": {
+        "title": "Crisis de Pareja",
+        "description": "Discusiones constantes por dinero, silencio prolongado, sensación de desconexión o patrones de reproche que no sabes cómo detener."
+      },
+      "money": {
+        "title": "Bloqueos de Dinero",
+        "description": "Ganas bien pero el dinero desaparece, miedo a invertir, o sientes que te autosaboteas financieramente una y otra vez."
+      }
+    },
+    "solution": {
+      "title": "No tienes que resolverlo solo/a",
+      "subtitle": "En una sesión de 60 minutos, identificamos la raíz emocional del problema y trazamos un plan de acción claro para que recuperes el control de tu vida y tus relaciones.",
+      "testimonial": {
+        "quote": "Alex nos ayudó a dejar de pelear por gastos innecesarios en solo dos sesiones. Entendimos que no era falta de dinero, sino un patrón de poder.",
+        "author": "Carlos y María, USA"
+      },
+      "actionText": "💬 Agendar mi sesión hoy"
+    },
+    "cta": {
+      "heading": "Empecemos Ahora",
+      "title": "Reservar mi sesión hoy"
+    }
   },
-  "aboutpage": { 
+  "aboutpage": {
     "meta": {
       "title": "Nosotros - Alex Zapata",
       "description": "Conoce más sobre Alex Zapata, nuestros enfoques, valores y logros en el camino del autoconocimiento."
     },
     "hero": {
       "tagline": "Nosotros",
-      "title": "Eleva tu presencia online con nuestras <br /><0>Hermosas Plantillas Web</0>", 
+      "title": "Eleva tu presencia online con nuestras <br /><0>Hermosas Plantillas Web</0>",
       "subtitle": "Donec efficitur, ipsum quis congue luctus, mauris magna convallis mauris, eu auctor nisi lectus non augue. Donec quis lorem non massa vulputate efficitur ac at turpis. Sed tincidunt ex a nunc convallis, et lobortis nisi tempus. Suspendisse vitae nisi eget tortor luctus maximus sed non lectus.",
       "imageAlt": "Imagen representativa de Alex Zapata"
     },
     "stats": {
       "title": "Datos de Nosotros",
       "items": [
-        { "title": "Pacientes", "amount": "413" },
-        { "title": "Empresas", "amount": "6" }
+        {
+          "title": "Pacientes",
+          "amount": "413"
+        },
+        {
+          "title": "Empresas",
+          "amount": "6"
+        }
       ]
     },
     "features3_enfoques": {
@@ -366,7 +400,7 @@
         {
           "title": "Individual",
           "description": "Morbi faucibus luctus quam, sit amet aliquet felis tempor id. Cras augue massa, ornare quis dignissim a, molestie vel nulla.",
-          "icon": "tabler:template" 
+          "icon": "tabler:template"
         },
         {
           "title": "Relaciones de Pareja",
@@ -380,7 +414,7 @@
         }
       ]
     },
-    "features3_otros": { 
+    "features3_otros": {
       "imageAlt": "Imagen colorida representativa",
       "items": [
         {
@@ -459,10 +493,22 @@
       "title": "Nuestras Ubicaciones",
       "tagline": "Encuéntranos",
       "items": [
-        { "title": "EE.UU", "description": "1234 Lorem Ipsum St, 12345, Miami" },
-        { "title": "España", "description": "5678 Lorem Ipsum St, 56789, Madrid" },
-        { "title": "Australia", "description": "9012 Lorem Ipsum St, 90123, Sídney" },
-        { "title": "Brasil", "description": "3456 Lorem Ipsum St, 34567, São Paulo" }
+        {
+          "title": "EE.UU",
+          "description": "1234 Lorem Ipsum St, 12345, Miami"
+        },
+        {
+          "title": "España",
+          "description": "5678 Lorem Ipsum St, 56789, Madrid"
+        },
+        {
+          "title": "Australia",
+          "description": "9012 Lorem Ipsum St, 90123, Sídney"
+        },
+        {
+          "title": "Brasil",
+          "description": "3456 Lorem Ipsum St, 34567, São Paulo"
+        }
       ]
     },
     "features2_soporte": {
@@ -492,7 +538,7 @@
       "title": "Curso de Eneagrama Game: Una herramienta de autodescubrimiento",
       "subtitle": "Apúntate a mi curso en VIVO y aprende sobre la herramienta de gamificación para descubrir tu personalidad, la misma que utilizo con mis pacientes en consultas.",
       "actionText": "Inscríbete Ahora",
-      "imageAlt": "Imagen del Curso de Eneagrama Game por Alex Zapata Coach"
+      "imageAlt": "Imagen del Curso de Eneagrama Game por Alex Zapata"
     },
     "callToAction": {
       "title": "Información",
@@ -500,7 +546,6 @@
       "actionText": "Descargar PDF"
     }
   },
-
   "error404Page": {
     "meta": {
       "title": "Error 404 - Página no encontrada"
@@ -511,7 +556,6 @@
     "infoText": "Pero no te preocupes, puedes encontrar muchas otras cosas en nuestra página principal.",
     "buttonText": "Regresar al Inicio"
   },
-
   "buildingPage": {
     "meta": {
       "title": "Página en Construcción"
@@ -523,7 +567,6 @@
     "infoText": "Pero no te preocupes, puedes encontrar muchas otras cosas en nuestra página principal.",
     "buttonText": "Regresar al Inicio"
   },
-
   "contactPage": {
     "meta": {
       "title": "Contacto - Alex Zapata"
@@ -536,8 +579,14 @@
       "title": "¡Envíanos un mensaje hoy mismo!",
       "subtitle": "Para respuestas más rápidas, explora nuestra sección de Preguntas Frecuentes. ¡Quizás encuentres la solución que buscas allí mismo! Si no, nuestro equipo de soporte estará encantado de ayudarte.",
       "inputs": [
-        { "name": "name", "label": "Nombre" },
-        { "name": "email", "label": "Correo Electrónico" }
+        {
+          "name": "name",
+          "label": "Nombre"
+        },
+        {
+          "name": "email",
+          "label": "Correo Electrónico"
+        }
       ],
       "textareaLabel": "Mensaje",
       "disclaimerLabel": "Al enviar este formulario de contacto, reconoces y aceptas la recopilación de tu información personal.",
@@ -558,13 +607,24 @@
           "title": "Soporte técnico",
           "description": "Chatea con nosotros si enfrentas problemas como la instalación de plantillas, dificultades de edición, problemas de compatibilidad con software o errores de descarga, u otros desafíos técnicos relacionados con el uso de las plantillas."
         },
-        { "title": "Teléfono", "description": "+1 (234) 567-890", "icon": "tabler:headset" },
-        { "title": "Correo Electrónico", "description": "alex@alexzapata.com", "icon": "tabler:mail" },
-        { "title": "Ubicación", "description": "1234 Lorem Ipsum St, 12345, Miami, EEUU", "icon": "tabler:map-pin" }
+        {
+          "title": "Teléfono",
+          "description": "+1 (234) 567-890",
+          "icon": "tabler:headset"
+        },
+        {
+          "title": "Correo Electrónico",
+          "description": "alex@alexzapata.com",
+          "icon": "tabler:mail"
+        },
+        {
+          "title": "Ubicación",
+          "description": "1234 Lorem Ipsum St, 12345, Miami, EEUU",
+          "icon": "tabler:map-pin"
+        }
       ]
     }
   },
-
   "pricingPage": {
     "meta": {
       "title": "Precios - Alex Zapata"
@@ -584,10 +644,18 @@
           "price": 29,
           "period": "por mes",
           "items": [
-            { "description": "Etiam in libero, et volutpat" },
-            { "description": "Aenean ac nunc dolor tristique" },
-            { "description": "Cras scelerisque accumsan lib" },
-            { "description": "In hac habitasse" }
+            {
+              "description": "Etiam in libero, et volutpat"
+            },
+            {
+              "description": "Aenean ac nunc dolor tristique"
+            },
+            {
+              "description": "Cras scelerisque accumsan lib"
+            },
+            {
+              "description": "In hac habitasse"
+            }
           ],
           "callToActionText": "Comenzar"
         }
@@ -596,20 +664,17 @@
     "featuresPricing": {
       "title": "Características relacionadas con el precio",
       "subtitle": "Descubre las ventajas de elegir nuestros planes",
-      "items": [
-      ]
+      "items": []
     },
     "stepsWidget": {
       "title": "Un viaje guiado de los planes a la creatividad",
       "tagline": "proceso simplificado",
-      "items": [
-      ]
+      "items": []
     },
     "faqsPricing": {
       "title": "Preguntas Frecuentes sobre Precios",
       "subtitle": "Elegir el plan correcto es importante, y estamos aquí para responder tus preguntas. Si tienes consultas sobre nuestras opciones de precios, estás en el lugar correcto.",
-      "items": [
-      ]
+      "items": []
     },
     "callToActionPricing": {
       "title": "¿Listo para impulsar tus proyectos?",
@@ -617,7 +682,6 @@
       "actionText": "Comienza ahora"
     }
   },
-
   "servicesPage": {
     "meta": {
       "title": "Servicios - Alex Zapata"
@@ -632,23 +696,19 @@
     "featuresTemplates": {
       "title": "Explora nuestras diversas plantillas",
       "subtitle": "Descubre nuestra selección a continuación para optimizar y elevar tus proyectos.",
-      "items": [
-      ]
+      "items": []
     },
     "contentMainFeatures": {
       "blockTitle": "Características Principales",
-      "items": [
-      ]
+      "items": []
     },
     "contentBenefits": {
       "blockTitle": "Beneficios",
-      "items": [
-      ]
+      "items": []
     },
     "testimonialsServices": {
       "title": "Palabras de clientes reales",
-      "items": [
-      ],
+      "items": [],
       "callToActionText": "Más testimonios..."
     },
     "callToActionServices": {

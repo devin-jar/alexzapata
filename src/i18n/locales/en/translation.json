@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Alex Zapata Coach | Enneagram and Biodescoding",
+    "title": "Alex Zapata | Enneagram and Biodescoding",
     "description": "Discover your essence and transform your life with Alex Zapata, merging Enneagram and Biodescoding for profound personal growth."
   },
   "nav": {
@@ -31,8 +31,12 @@
     "subscription": "Subscription",
     "widgets": "Widgets",
     "actions": {
-      "book": "Book"
-    }
+      "book": "Book Now"
+    },
+    "otherServices": "Other Services",
+    "servicesRetreat": "Retreats",
+    "servicesWorkshops": "Workshops",
+    "servicesCourses": "Courses"
   },
   "footer": {
     "products": {
@@ -80,17 +84,18 @@
       "developedBy": "Developed by",
       "rightsReserved": "All rights reserved."
     }
-  },"routes": {
-    "home": "/", 
-    "about": "about", 
-    "contact": "contact", 
-    "terms": "terms", 
-    "privacy": "privacy", 
-    "services": "services", 
+  },
+  "routes": {
+    "home": "/",
+    "about": "about",
+    "contact": "contact",
+    "terms": "terms",
+    "privacy": "privacy",
+    "services": "services",
     "blog": "blog",
-    "pricing": "pricing", 
-    "building": "building",     
-    "courseEnneagramGame": "landing/course-enneagram-game",     
+    "pricing": "pricing",
+    "building": "building",
+    "courseEnneagramGame": "landing/course-enneagram-game",
     "productRetreat": "products/retreat",
     "productIndividualTherapy": "products/individual-therapy",
     "productCouplesTherapy": "products/couples-therapy",
@@ -109,16 +114,41 @@
   },
   "homepage": {
     "meta": {
-      "title": "Alex Zapata Coach | Enneagram and Biodescoding",
+      "title": "Alex Zapata | Enneagram and Biodescoding",
       "description": "Discover your strengths and improve your relationships with Alex Zapata. Experts in Enneagram and Biodescoding for your personal growth."
     },
     "hero": {
-      "tagline": "Personal Growth",
-      "title": "Ready to discover the secrets of <br /> your personality : <0>ENNEAGRAM - BIODESCODING</0><br />",
-      "heroHighlight": "Enneagram - BioDecoding",
-      "subtitle": "Discover your strengths, weaknesses, and how to improve personal relationships with <1>Alex Zapata</1>.",
-      "actionText": "Schedule Now",
-      "imageAlt": "Alex Zapata Main Image"
+      "tagline": "Couples and Money Therapy",
+      "title": "Recover peace in your relationship and release your money blockages.",
+      "subtitle": "Strategic online therapy. Fast results, no complicated jargon. Let's talk today about what you're going through.",
+      "actionText": "💬 Chat with me on WhatsApp",
+      "imageAlt": "Strategic online therapy - Alex Zapata"
+    },
+    "heroNote": "Immediate attention | Sessions from $60 USD",
+    "pain": {
+      "title": "Do you relate to this?",
+      "couples": {
+        "title": "Couples Crisis",
+        "description": "Constant fights over money, prolonged silence, a sense of disconnection, or patterns of blame you don't know how to stop."
+      },
+      "money": {
+        "title": "Money Blockages",
+        "description": "You earn well but money disappears, fear of investing, or you feel you sabotage yourself financially again and again."
+      }
+    },
+    "solution": {
+      "title": "You don't have to solve it alone",
+      "subtitle": "In a 60-minute session, we identify the emotional root of the problem and map a clear action plan so you regain control of your life and relationships.",
+      "testimonial": {
+        "quote": "Alex helped us stop fighting over unnecessary expenses in just two sessions. We understood it wasn't a lack of money, but a pattern of power.",
+        "author": "Carlos and María, USA"
+      },
+      "actionText": "💬 Book my session today"
+      },
+      "cta": {
+        "heading": "Ready to start",
+        "title": "Book my session today"
+      }
     },
     "note": {
       "philosophyTitle": "Philosophy:",
@@ -244,19 +274,19 @@
       "subtitle": "Discover what our clients have to say about their experiences working with us.",
       "items": [
         {
-          "testimonial": "My experience with BioEnneagram has been truly transformative. The coach has a unique ability to combine enneagram and biodescoding in a way that guides you to deep self-understanding. In just a few sessions, I've experienced significant change in my perspective and how I handle life's challenges. I highly recommend this therapy to anyone seeking positive, lasting change.",
+          "testimonial": "My experience with BioEnneagram has been truly transformative. The has a unique ability to combine enneagram and biodescoding in a way that guides you to deep self-understanding. In just a few sessions, I've experienced significant change in my perspective and how I handle life's challenges. I highly recommend this therapy to anyone seeking positive, lasting change.",
           "name": "Alejandra",
           "job": "Employee at Huspost",
           "imageAlt": "Alejandra's Testimonial"
         },
         {
-          "testimonial": "I have no words to express my gratitude for discovering BioEnneagram. The enneagram and biodescoding have been key tools for understanding my behavior patterns and overcoming emotional obstacles. The coach approaches problems with empathy and wisdom. My life has taken a positive turn, and I couldn't be more thankful for this transformative experience.",
+          "testimonial": "I have no words to express my gratitude for discovering BioEnneagram. The enneagram and biodescoding have been key tools for understanding my behavior patterns and overcoming emotional obstacles. The approaches problems with empathy and wisdom. My life has taken a positive turn, and I couldn't be more thankful for this transformative experience.",
           "name": "Juan David Cardona",
           "job": "Founder of Raices",
           "imageAlt": "Juan David Cardona's Testimonial"
         },
         {
-          "testimonial": "After participating in BioEnneagram sessions, I finally feel connected to my true self. The enneagram and biodescoding have provided deep insight into my emotional blocks and how to overcome them. The coach has been an exceptional guide on this journey of self-discovery. My life perspective has changed, and I'm experiencing an inner peace I never thought possible.",
+          "testimonial": "After participating in BioEnneagram sessions, I finally feel connected to my true self. The enneagram and biodescoding have provided deep insight into my emotional blocks and how to overcome them. The has been an exceptional guide on this journey of self-discovery. My life perspective has changed, and I'm experiencing an inner peace I never thought possible.",
           "name": "Sara",
           "job": "Professional Violinist",
           "imageAlt": "Sara's Testimonial"
@@ -324,7 +354,7 @@
       "title": "Stay Informed with Alex Zapata's Blog",
       "information": "Explore our collection of articles, guides, and tutorials on web development, design trends, and using alexzapata effectively for your projects."
     },
-    "mailtoSubject": "Alexander Zapata: Alex Zapata Coach"
+    "mailtoSubject": "Alexander Zapata: Alex Zapata"
   },
   "aboutpage": {
     "meta": {
@@ -340,8 +370,14 @@
     "stats": {
       "title": "Our Stats",
       "items": [
-        { "title": "Patients", "amount": "413" },
-        { "title": "Companies", "amount": "6" }
+        {
+          "title": "Patients",
+          "amount": "413"
+        },
+        {
+          "title": "Companies",
+          "amount": "6"
+        }
       ]
     },
     "features3_enfoques": {
@@ -444,10 +480,22 @@
       "title": "Our Locations",
       "tagline": "Find Us",
       "items": [
-        { "title": "USA", "description": "1234 Lorem Ipsum St, 12345, Miami" },
-        { "title": "Spain", "description": "5678 Lorem Ipsum St, 56789, Madrid" },
-        { "title": "Australia", "description": "9012 Lorem Ipsum St, 90123, Sydney" },
-        { "title": "Brazil", "description": "3456 Lorem Ipsum St, 34567, São Paulo" }
+        {
+          "title": "USA",
+          "description": "1234 Lorem Ipsum St, 12345, Miami"
+        },
+        {
+          "title": "Spain",
+          "description": "5678 Lorem Ipsum St, 56789, Madrid"
+        },
+        {
+          "title": "Australia",
+          "description": "9012 Lorem Ipsum St, 90123, Sydney"
+        },
+        {
+          "title": "Brazil",
+          "description": "3456 Lorem Ipsum St, 34567, São Paulo"
+        }
       ]
     },
     "features2_soporte": {
@@ -468,23 +516,23 @@
     }
   },
   "courseEnneagramGamePage": {
-  "meta": {
-    "title": "Eneagram Game Course",
-    "description": "Learn to use the Eneagram Game gamification tool for self-discovery."
+    "meta": {
+      "title": "Eneagram Game Course",
+      "description": "Learn to use the Eneagram Game gamification tool for self-discovery."
+    },
+    "hero": {
+      "tagline": "Courses",
+      "title": "Eneagram Game Course: A Self-Discovery Tool",
+      "subtitle": "Join my LIVE course and learn about the gamification tool for discovering your personality – the same one I use with my patients during consultations.",
+      "actionText": "Enroll Now",
+      "imageAlt": "Eneagram Game Course Image by Alex Zapata"
+    },
+    "callToAction": {
+      "title": "Information",
+      "subtitle": "Below you'll find a PDF with detailed course information. Read it to determine if this course is right for you. (Prices may vary)",
+      "actionText": "Download PDF"
+    }
   },
-  "hero": {
-    "tagline": "Courses",
-    "title": "Eneagram Game Course: A Self-Discovery Tool",
-    "subtitle": "Join my LIVE course and learn about the gamification tool for discovering your personality – the same one I use with my patients during consultations.",
-    "actionText": "Enroll Now",
-    "imageAlt": "Eneagram Game Course Image by Alex Zapata Coach"
-  },
-  "callToAction": {
-    "title": "Information",
-    "subtitle": "Below you'll find a PDF with detailed course information. Read it to determine if this course is right for you. (Prices may vary)",
-    "actionText": "Download PDF"
-  }
-},
   "error404Page": {
     "meta": {
       "title": "Error 404 - Page Not Found"
@@ -495,7 +543,6 @@
     "infoText": "But don't worry, you can find plenty of other things on our homepage.",
     "buttonText": "Return to Home"
   },
-
   "buildingPage": {
     "meta": {
       "title": "Page Under Construction"
@@ -507,7 +554,6 @@
     "infoText": "But don't worry, you can find plenty of other things on our homepage.",
     "buttonText": "Return to Home"
   },
-
   "contactPage": {
     "meta": {
       "title": "Contact - Alex Zapata"
@@ -520,8 +566,14 @@
       "title": "Send us a message today!",
       "subtitle": "For faster responses, check our FAQ section. You might find the solution right there! If not, our support team will be happy to help.",
       "inputs": [
-        { "name": "name", "label": "Name" },
-        { "name": "email", "label": "Email" }
+        {
+          "name": "name",
+          "label": "Name"
+        },
+        {
+          "name": "email",
+          "label": "Email"
+        }
       ],
       "textareaLabel": "Message",
       "disclaimerLabel": "By submitting this contact form, you acknowledge and accept the collection of your personal information.",
@@ -542,13 +594,24 @@
           "title": "Technical Support",
           "description": "Chat with us if you face issues like template installation, editing difficulties, software compatibility problems, download errors, or other technical challenges related to using templates."
         },
-        { "title": "Phone", "description": "+1 (234) 567-890", "icon": "tabler:headset" },
-        { "title": "Email", "description": "alex@alexzapata.com", "icon": "tabler:mail" },
-        { "title": "Location", "description": "1234 Lorem Ipsum St, 12345, Miami, USA", "icon": "tabler:map-pin" }
+        {
+          "title": "Phone",
+          "description": "+1 (234) 567-890",
+          "icon": "tabler:headset"
+        },
+        {
+          "title": "Email",
+          "description": "alex@alexzapata.com",
+          "icon": "tabler:mail"
+        },
+        {
+          "title": "Location",
+          "description": "1234 Lorem Ipsum St, 12345, Miami, USA",
+          "icon": "tabler:map-pin"
+        }
       ]
     }
   },
-
   "pricingPage": {
     "meta": {
       "title": "Pricing - Alex Zapata"
@@ -568,10 +631,18 @@
           "price": 29,
           "period": "per month",
           "items": [
-            { "description": "Etiam in libero, et volutpat" },
-            { "description": "Aenean ac nunc dolor tristique" },
-            { "description": "Cras scelerisque accumsan lib" },
-            { "description": "In hac habitasse" }
+            {
+              "description": "Etiam in libero, et volutpat"
+            },
+            {
+              "description": "Aenean ac nunc dolor tristique"
+            },
+            {
+              "description": "Cras scelerisque accumsan lib"
+            },
+            {
+              "description": "In hac habitasse"
+            }
           ],
           "callToActionText": "Get Started"
         }
@@ -580,20 +651,17 @@
     "featuresPricing": {
       "title": "Pricing-Related Features",
       "subtitle": "Discover the advantages of choosing our plans",
-      "items": [
-      ]
+      "items": []
     },
     "stepsWidget": {
       "title": "A Guided Journey from Plans to Creativity",
       "tagline": "simplified process",
-      "items": [
-      ]
+      "items": []
     },
     "faqsPricing": {
       "title": "Pricing FAQs",
       "subtitle": "Choosing the right plan is important, and we're here to answer your questions. If you have queries about our pricing options, you're in the right place.",
-      "items": [
-      ]
+      "items": []
     },
     "callToActionPricing": {
       "title": "Ready to boost your projects?",
@@ -601,7 +669,6 @@
       "actionText": "Start Now"
     }
   },
-
   "servicesPage": {
     "meta": {
       "title": "Services - Alex Zapata"
@@ -616,23 +683,19 @@
     "featuresTemplates": {
       "title": "Explore our diverse templates",
       "subtitle": "Discover our selection below to optimize and elevate your projects.",
-      "items": [
-      ]
+      "items": []
     },
     "contentMainFeatures": {
       "blockTitle": "Key Features",
-      "items": [
-      ]
+      "items": []
     },
     "contentBenefits": {
       "blockTitle": "Benefits",
-      "items": [
-      ]
+      "items": []
     },
     "testimonialsServices": {
       "title": "Words from real customers",
-      "items": [
-      ],
+      "items": [],
       "callToActionText": "More testimonials..."
     },
     "callToActionServices": {

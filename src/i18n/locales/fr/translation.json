@@ -244,19 +244,19 @@
       "subtitle": "Découvrez les témoignages de nos clients.",
       "items": [
         {
-          "testimonial": "Mon expérience avec Bioennéagramme a été transformatrice. Le coach combine l'ennéagramme et le biodécodage avec une maîtrise unique qui guide vers une compréhension profonde de soi. En quelques séances, ma perspective et ma gestion des défis ont radicalement changé. Je recommande vivement cette approche.",
+          "testimonial": "Mon expérience avec Bioennéagramme a été transformatrice. Le combine l'ennéagramme et le biodécodage avec une maîtrise unique qui guide vers une compréhension profonde de soi. En quelques séances, ma perspective et ma gestion des défis ont radicalement changé. Je recommande vivement cette approche.",
           "name": "Alejandra",
           "job": "Employée chez Huspost",
           "imageAlt": "Témoignage d'Alejandra"
         },
         {
-          "testimonial": "Aucun mot n'exprime ma gratitude pour avoir découvert Bioennéagramme. L'ennéagramme et le biodécodage ont été clés pour comprendre mes schémas et surmonter mes blocages. Le coach aborde les problèmes avec empathie et sagesse. Ma vie a pris un tournant positif grâce à cette expérience transformatrice.",
+          "testimonial": "Aucun mot n'exprime ma gratitude pour avoir découvert Bioennéagramme. L'ennéagramme et le biodécodage ont été clés pour comprendre mes schémas et surmonter mes blocages. Le aborde les problèmes avec empathie et sagesse. Ma vie a pris un tournant positif grâce à cette expérience transformatrice.",
           "name": "Juan David Cardona",
           "job": "Fondateur de Raices",
           "imageAlt": "Témoignage de Juan David Cardona"
         },
         {
-          "testimonial": "Après les séances Bioennéagramme, je me sens enfin connectée à mon vrai moi. Ces outils ont fourni une perspicacité profonde sur mes blocages émotionnels. Le coach a été un guide exceptionnel dans ce voyage d'auto-découverte. Je vis une paix intérieure que je pensais impossible.",
+          "testimonial": "Après les séances Bioennéagramme, je me sens enfin connectée à mon vrai moi. Ces outils ont fourni une perspicacité profonde sur mes blocages émotionnels. Le a été un guide exceptionnel dans ce voyage d'auto-découverte. Je vis une paix intérieure que je pensais impossible.",
           "name": "Sara",
           "job": "Violoniste professionnelle",
           "imageAlt": "Témoignage de Sara"
@@ -324,7 +324,7 @@
       "title": "Restez informé(e) avec le blog Bioennéagramme",
       "information": "Explorez nos articles, guides et tutoriels sur le développement personnel, les tendances et l'utilisation efficace du bioennéagramme pour vos projets de transformation."
     },
-    "mailtoSubject": "Alexander Zapata : Coach Bioennéagramme"
+    "mailtoSubject": "Alexander Zapata : Bioennéagramme"
   },
   "aboutpage": {
     "meta": {
@@ -477,7 +477,7 @@
     "title": "Cours du Jeu de l'Ennéagramme : Un outil d'auto-découverte",
     "subtitle": "Rejoignez mon cours EN DIRECT et découvrez l'outil de gamification pour explorer votre personnalité – le même que j'utilise avec mes patients lors des consultations.",
     "actionText": "S'inscrire Maintenant",
-    "imageAlt": "Image du Cours du Jeu de l'Ennéagramme par Alex Zapata Coach"
+    "imageAlt": "Image du Cours du Jeu de l'Ennéagramme par Alex Zapata"
   },
   "callToAction": {
     "title": "Information",
