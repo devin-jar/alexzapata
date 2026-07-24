@@ -5,6 +5,8 @@ import Button from '~/components/ui/Button.astro';
 import { getTranslator, defaultLang, supportedLangs } from '~/i18n';
 import { getPageKeyForPath, getAlternateLinksForPage as getAlternateLinks } from '~/utils/hreflang-mapping';
 import type { MetaData } from '~/types';
+import myJpg from '~/assets/images/alex.jpg';
+
 
 interface JsonModule { default?: Record<string, any>; [key: string]: any; }
 
@@ -19,8 +21,6 @@ const t = getTranslator(pageTranslations, currentLocale);
 
 const whatsappBaseLink = 'https://api.whatsapp.com/send/?phone=573004481819&type=phone_number&app_absent=0';
 const whatsappLink = `${whatsappBaseLink}&text=${encodeURIComponent(t('footer.social.whatsappMessage'))}`;
-
-const heroImageSrc = 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1600&q=80';
 
 const metadata: MetaData = {
   title: t('homepage.meta.title'),
@@ -51,7 +51,6 @@ const heroData = {
   subtitle: t('homepage.hero.subtitle'),
   actions: [{ variant: 'primary', href: whatsappLink, target: '_blank', text: t('homepage.hero.actionText') }],
   note: t('homepage.heroNote'),
-  image: { src: heroImageSrc, alt: t('homepage.hero.imageAlt') },
 };
 
 // Structured testimonials so we can show flags depending on country
@@ -82,7 +81,19 @@ const countryFlag = {
 ---
 
 <Layout metadata={metadata}>
-  <Hero {...heroData} />
+  <Hero {...heroData}>
+    <Fragment slot="image">
+      <img
+        src={myJpg.src}
+        width={myJpg.width}
+        height={myJpg.height}
+        alt={t('homepage.hero.imageAlt')}
+        class="mx-auto rounded-md w-full h-auto"
+        loading="eager"
+        decoding="async"
+      />
+    </Fragment>
+  </Hero>
 
   <section class="bg-slate-50 dark:bg-slate-900 py-20 px-6">
     <div class="max-w-5xl mx-auto text-center">
