@@ -1,1 +1,6 @@
 compatibility_flags = [ "nodejs_compat" ]
+
+# Configuración para la rama de desarrollo
+[env.dev]
+name = "alexzapata-dev"
+route = "://alexzapata.com*"
