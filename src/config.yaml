@@ -1,6 +1,6 @@
 site:
   name: Alex Zapata
-  site: 'https://alexzapata.com'
+  site: 'https://www.alexzapata.com'
   base: '/'
   trailingSlash: true
 
