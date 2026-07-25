@@ -23,7 +23,7 @@ const whenExternalScripts = (items = []) =>
     : [];
 
 export default defineConfig({
-  site: SITE.site.site,
+  site: 'https://www.alexzapata.com',
   base: SITE.base,
   trailingSlash: (SITE.trailingSlash ? 'always' : 'never') || 'always',
 
